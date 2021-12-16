@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 67ed7ff09090196498b804f8979204e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1843779439391599871
+    second: TintinFirst_0
+  - first:
+      213: -6108767948639848842
+    second: TintinFirst_1
+  - first:
+      213: 5239508044794999074
+    second: TintinFirst_2
+  - first:
+      213: 87818132645751890
+    second: TintinFirst_3
+  - first:
+      213: 1035924384401750544
+    second: TintinFirst_4
+  - first:
+      213: -2628087950929954631
+    second: TintinFirst_5
+  - first:
+      213: 411863822687032194
+    second: TintinFirst_6
+  - first:
+      213: -553819236022180519
+    second: TintinFirst_7
+  - first:
+      213: -211513486141650659
+    second: TintinFirst_8
+  - first:
+      213: -3302464320628957274
+    second: TintinFirst_9
+  - first:
+      213: 986417712418670802
+    second: TintinFirst_10
+  - first:
+      213: 4563312620688225027
+    second: TintinFirst_11
+  - first:
+      213: 2779060830404699376
+    second: TintinFirst_12
+  - first:
+      213: -2764541227156505286
+    second: TintinFirst_13
+  - first:
+      213: 3919748478822773934
+    second: TintinFirst_14
+  - first:
+      213: -3162253068883065762
+    second: TintinFirst_15
+  - first:
+      213: 4135488954743515788
+    second: TintinFirst_16
+  - first:
+      213: -5730353449055801674
+    second: TintinFirst_17
+  - first:
+      213: -7999393628078136900
+    second: TintinFirst_18
+  - first:
+      213: -4787784386234742416
+    second: TintinFirst_19
+  - first:
+      213: -6065833410442320752
+    second: TintinFirst_20
+  - first:
+      213: -1957486207028612896
+    second: TintinFirst_21
+  - first:
+      213: 4942725659817906864
+    second: TintinFirst_23
+  - first:
+      213: 3373195146032560687
+    second: TintinFirst_24
+  - first:
+      213: -7233471693145434837
+    second: TintinFirst_25
+  - first:
+      213: -8366983740519389103
+    second: TintinFirst_26
+  - first:
+      213: -5835456369720957728
+    second: TintinFirst_27
+  - first:
+      213: -2726543845386771568
+    second: TintinFirst_28
+  - first:
+      213: 2233115922513860934
+    second: TintinFirst_29
+  - first:
+      213: -6690025590983142773
+    second: TintinFirst_30
+  - first:
+      213: 4356070551111820210
+    second: TintinFirst_31
+  - first:
+      213: 5740809794541125149
+    second: TintinFirst_32
+  - first:
+      213: 7414504696272249289
+    second: TintinFirst_33
+  - first:
+      213: 3345394752520719213
+    second: TintinFirst_34
+  - first:
+      213: -7328690891409649561
+    second: TintinFirst_35
+  - first:
+      213: -1411522753082441805
+    second: TintinFirst_36
+  - first:
+      213: -9079763555672132710
+    second: TintinFirst_37
+  - first:
+      213: -4055330012514325098
+    second: TintinFirst_38
+  - first:
+      213: -6172306876378398100
+    second: TintinFirst_39
+  - first:
+      213: 2044455631351549750
+    second: TintinFirst_40
+  - first:
+      213: -6601553115896145324
+    second: TintinFirst_41
+  - first:
+      213: -7888194174351089076
+    second: TintinFirst_42
+  - first:
+      213: -6034560376638666899
+    second: TintinFirst_43
+  - first:
+      213: 4229055577266396781
+    second: TintinFirst_44
+  - first:
+      213: -5033786407032252765
+    second: TintinFirst_45
+  - first:
+      213: 5822427730275559899
+    second: TintinFirst_46
+  - first:
+      213: -39737732488695053
+    second: TintinFirst_47
+  - first:
+      213: 3965794153955242053
+    second: TintinFirst_48
+  - first:
+      213: -1670093682274924914
+    second: TintinFirst_50
+  - first:
+      213: 4422886327528780656
+    second: TintinFirst_51
+  - first:
+      213: 8076652154876827767
+    second: TintinFirst_52
+  - first:
+      213: -8627818250272665311
+    second: TintinFirst_53
+  - first:
+      213: 8492456347361076775
+    second: TintinFirst_54
+  - first:
+      213: -1797252636418209320
+    second: TintinFirst_59
+  - first:
+      213: 8593612460151487288
+    second: TintinFirst_60
+  - first:
+      213: -5477609659217162670
+    second: TintinFirst_65
+  - first:
+      213: -8138079989210852663
+    second: TintinFirst_66
+  - first:
+      213: -7110401935728524183
+    second: TintinFirst_67
+  - first:
+      213: -1275964722449136590
+    second: TintinFirst_68
+  - first:
+      213: 453113197119931369
+    second: TintinFirst_78
+  - first:
+      213: 1900608071405707444
+    second: TintinFirst_79
+  - first:
+      213: 6352860154248879915
+    second: TintinFirst_80
+  - first:
+      213: -13452816572291771
+    second: TintinFirst_81
+  - first:
+      213: -3717342628221590435
+    second: TintinFirst_82
+  - first:
+      213: 2638310051528924074
+    second: TintinFirst_83
+  - first:
+      213: -1701951095282652946
+    second: TintinFirst_84
+  - first:
+      213: -1319833622762987734
+    second: TintinFirst_85
+  - first:
+      213: -3437800102101289897
+    second: TintinFirst_86
+  - first:
+      213: -8264798805461489928
+    second: TintinFirst_87
+  - first:
+      213: -7651757654190940255
+    second: TintinFirst_88
+  - first:
+      213: -2094127187996385516
+    second: TintinFirst_89
+  - first:
+      213: 9214298226888255935
+    second: TintinFirst_90
+  - first:
+      213: -5055922539129035252
+    second: TintinFirst_91
+  - first:
+      213: -9185108312530890145
+    second: TintinFirst_92
+  - first:
+      213: -3213614883542775926
+    second: TintinFirst_93
+  - first:
+      213: -5065462952344009576
+    second: TintinFirst_94
+  - first:
+      213: 8131477274757422239
+    second: TintinFirst_95
+  - first:
+      213: 4157135933858645304
+    second: TintinFirst_96
+  - first:
+      213: 3718785795020861689
+    second: TintinFirst_97
+  - first:
+      213: 8863004671829660184
+    second: TintinFirst_98
+  - first:
+      213: -2463205989922407219
+    second: TintinFirst_99
+  - first:
+      213: 4903953505059139383
+    second: TintinFirst_100
+  - first:
+      213: 7890384704537377459
+    second: TintinFirst_101
+  - first:
+      213: -2692992678017235010
+    second: TintinFirst_102
+  - first:
+      213: 8753649583655099607
+    second: TintinFirst_103
+  - first:
+      213: -8520527476381085112
+    second: TintinFirst_104
+  - first:
+      213: 4412130501682039128
+    second: TintinFirst_105
+  - first:
+      213: 949347040556519440
+    second: TintinFirst_106
+  - first:
+      213: 5207856607176117024
+    second: TintinFirst_107
+  - first:
+      213: -5125875953870329938
+    second: TintinFirst_108
+  - first:
+      213: -3641376407750089877
+    second: TintinFirst_109
+  - first:
+      213: 1358072150252601166
+    second: TintinFirst_110
+  - first:
+      213: -5389333379298613321
+    second: TintinFirst_111
+  - first:
+      213: 8853643996773348534
+    second: TintinFirst_112
+  - first:
+      213: 2510901683845049109
+    second: TintinFirst_113
+  - first:
+      213: 6829299173165580918
+    second: TintinFirst_114
+  - first:
+      213: 2338006073267689630
+    second: TintinFirst_115
+  - first:
+      213: -2629796724761126894
+    second: TintinFirst_116
+  - first:
+      213: 1201184057005466219
+    second: TintinFirst_117
+  - first:
+      213: 3960841277040302472
+    second: TintinFirst_118
+  - first:
+      213: 6142101562360873857
+    second: TintinFirst_119
+  - first:
+      213: -6090299632425832541
+    second: TintinFirst_120
+  - first:
+      213: 8133890615490392543
+    second: TintinFirst_121
+  - first:
+      213: 8278257975388767284
+    second: TintinFirst_122
+  - first:
+      213: -1317301686839232716
+    second: TintinFirst_123
+  - first:
+      213: -4583990060896834087
+    second: TintinFirst_124
+  - first:
+      213: 2188412221943375727
+    second: TintinFirst_125
+  - first:
+      213: -6974198389282860656
+    second: TintinFirst_126
+  - first:
+      213: -2428242696036366876
+    second: TintinFirst_127
+  - first:
+      213: 7493872456930294768
+    second: TintinFirst_128
+  - first:
+      213: 6819962540774690841
+    second: TintinFirst_129
+  - first:
+      213: -8159795656854358698
+    second: TintinFirst_130
+  - first:
+      213: 8354634346627452400
+    second: TintinFirst_131
+  - first:
+      213: -854751879851561722
+    second: TintinFirst_132
+  - first:
+      213: -2148038643479024555
+    second: TintinFirst_133
+  - first:
+      213: 2892282915639022106
+    second: TintinFirst_134
+  - first:
+      213: 1391630843569563082
+    second: TintinFirst_135
+  - first:
+      213: -6103663422064175632
+    second: TintinFirst_136
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TintinFirst_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 629
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcea11a1ab669910800000000000000
+      internalID: 1843779439391599871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 629
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b7069aeb493ba0800000000000000
+      internalID: -6108767948639848842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 629
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221becf7ec876b840800000000000000
+      internalID: 5239508044794999074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 629
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2039502ef73100800000000000000
+      internalID: 87818132645751890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 629
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a7e623db7506e00800000000000000
+      internalID: 1035924384401750544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 629
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f55ecee7278bd0800000000000000
+      internalID: -2628087950929954631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 629
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283581fe6fb37b500800000000000000
+      internalID: 411863822687032194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 629
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ae1fc6507058f0800000000000000
+      internalID: -553819236022180519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 629
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d198251ea9d801df0800000000000000
+      internalID: -211513486141650659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 629
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5285923a4b22d0800000000000000
+      internalID: -3302464320628957274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 629
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84ed4eea570bd00800000000000000
+      internalID: 986417712418670802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 629
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303bd2ba6a4245f30800000000000000
+      internalID: 4563312620688225027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 629
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f46975e915319620800000000000000
+      internalID: 2779060830404699376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 629
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df96ca66062a9d0800000000000000
+      internalID: -2764541227156505286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 629
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4fb19497eb56630800000000000000
+      internalID: 3919748478822773934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 629
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540653969b6d14d0800000000000000
+      internalID: -3162253068883065762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 629
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae9082b45346930800000000000000
+      internalID: 4135488954743515788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 629
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be289716e1b970b0800000000000000
+      internalID: -5730353449055801674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 629
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb121ebb0e17cf090800000000000000
+      internalID: -7999393628078136900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 629
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079015da77f5e8db0800000000000000
+      internalID: -4787784386234742416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_20
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 629
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a3efb6a4d1dba0800000000000000
+      internalID: -6065833410442320752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_21
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 629
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e035597aac95d4e0800000000000000
+      internalID: -1957486207028612896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 559
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b297a7ccc6189440800000000000000
+      internalID: 4942725659817906864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 559
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab7550d1fffce20800000000000000
+      internalID: 3373195146032560687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 558
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b251935d1db8d9b90800000000000000
+      internalID: -7233471693145434837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 558
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586fd04e9082eb80800000000000000
+      internalID: -8366983740519389103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 558
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ed7c695b440fa0800000000000000
+      internalID: -5835456369720957728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 557
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a13781de592ad0800000000000000
+      internalID: -2726543845386771568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 556
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64915b7991f9dfe10800000000000000
+      internalID: 2233115922513860934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 556
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825d279b214823a0800000000000000
+      internalID: -6690025590983142773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 556
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36f87361fd37c30800000000000000
+      internalID: 4356070551111820210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 555
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef4be87147baf40800000000000000
+      internalID: 5740809794541125149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 555
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e5ceccbc95e660800000000000000
+      internalID: 7414504696272249289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 491
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b04718dca3d6e20800000000000000
+      internalID: 3345394752520719213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 491
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76013ec96724b4a90800000000000000
+      internalID: -7328690891409649561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 491
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb32ed883496ce0800000000000000
+      internalID: -1411522753082441805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 494
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93ff9b17233ef180800000000000000
+      internalID: -9079763555672132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 493
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6a15f6d298b7c0800000000000000
+      internalID: -4055330012514325098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 492
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62c3c4299f875aa0800000000000000
+      internalID: -6172306876378398100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 491
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f81c1909d5f5c10800000000000000
+      internalID: 2044455631351549750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 489
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1329ea629264a0800000000000000
+      internalID: -6601553115896145324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 490
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426f7e1131878290800000000000000
+      internalID: -7888194174351089076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 490
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670ec65f4fe04ca0800000000000000
+      internalID: -6034560376638666899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 490
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e195a14af90ba30800000000000000
+      internalID: 4229055577266396781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a617a5dee5642ab0800000000000000
+      internalID: -5033786407032252765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 424
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd965711c2b6dc050800000000000000
+      internalID: 5822427730275559899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 423
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f4da2eb2d27ff0800000000000000
+      internalID: -39737732488695053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 424
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b2d675c4590730800000000000000
+      internalID: 3965794153955242053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 348
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86016ef4a2a2d8e0800000000000000
+      internalID: -1670093682274924914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 358
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f8427eaf316d30800000000000000
+      internalID: 4422886327528780656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 365
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77893d9c758061070800000000000000
+      internalID: 8076652154876827767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 356
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219dd57305d34880800000000000000
+      internalID: -8627818250272665311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 346
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e7fe8d044bd570800000000000000
+      internalID: 8492456347361076775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 286
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d988aadf30ee07e0800000000000000
+      internalID: -1797252636418209320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_60
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 286
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b33b86005a24770800000000000000
+      internalID: 8593612460151487288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_65
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 216
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ecc1c590f9bf3b0800000000000000
+      internalID: -5477609659217162670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25f510e5bbf0f80800000000000000
+      internalID: -8138079989210852663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_67
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 219
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c6aaac17c25d90800000000000000
+      internalID: -7110401935728524183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 218
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2344d7468dcda4ee0800000000000000
+      internalID: -1275964722449136590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 152
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e300655d08c94600800000000000000
+      internalID: 453113197119931369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 151
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a06998f0506a10800000000000000
+      internalID: 1900608071405707444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdcb1c6a4e92850800000000000000
+      internalID: 6352860154248879915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 150
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545eafe0cb430dff0800000000000000
+      internalID: -13452816572291771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d546f603398596cc0800000000000000
+      internalID: -3717342628221590435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 151
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab59b473092d9420800000000000000
+      internalID: 2638310051528924074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 151
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee827940f747168e0800000000000000
+      internalID: -1701951095282652946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_85
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 151
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f589810520fade0800000000000000
+      internalID: -1319833622762987734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 151
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547379750b7a40d0800000000000000
+      internalID: -3437800102101289897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 152
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6256476498d4d80800000000000000
+      internalID: -8264798805461489928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 152
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af929a44fe7fc590800000000000000
+      internalID: -7651757654190940255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 152
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fdcfcea6a20f2e0800000000000000
+      internalID: -2094127187996385516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_90
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 151
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9af2cfa63cfdf70800000000000000
+      internalID: 9214298226888255935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_91
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 151
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a253fc31c5d9b0800000000000000
+      internalID: -5055922539129035252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_92
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 151
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52db1097a0f78080800000000000000
+      internalID: -9185108312530890145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_93
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 151
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8746853a42f663d0800000000000000
+      internalID: -3213614883542775926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_94
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 151
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89442a6684cd3b9b0800000000000000
+      internalID: -5065462952344009576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_95
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 151
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd31dbf7fc8d070800000000000000
+      internalID: 8131477274757422239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_96
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 150
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83508ac3b1d11b930800000000000000
+      internalID: 4157135933858645304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_97
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 149
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0bcf34af7cb9330800000000000000
+      internalID: 3718785795020861689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_98
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 149
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d8037ac7bffa70800000000000000
+      internalID: 8863004671829660184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_99
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 149
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7f0ae33fe0ddd0800000000000000
+      internalID: -2463205989922407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe4180bb75e0440800000000000000
+      internalID: 4903953505059139383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_101
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba302f6517408d60800000000000000
+      internalID: 7890384704537377459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 77
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70e0c6d6190aad0800000000000000
+      internalID: -2692992678017235010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1202eae53b7970800000000000000
+      internalID: 8753649583655099607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_104
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 76
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429957676101c980800000000000000
+      internalID: -8520527476381085112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_105
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 78
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598c6790590b3d30800000000000000
+      internalID: 4412130501682039128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 77
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01090f08a12cc2d00800000000000000
+      internalID: 949347040556519440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_107
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 77
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b47e7edf5064840800000000000000
+      internalID: 5207856607176117024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_108
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 78
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a7de5afa3dd8b0800000000000000
+      internalID: -5125875953870329938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 78
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b636192337b377dc0800000000000000
+      internalID: -3641376407750089877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_110
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 77
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f382fdc67d8d210800000000000000
+      internalID: 1358072150252601166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_111
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 78
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b720ce68dd3535b0800000000000000
+      internalID: -5389333379298613321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_112
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 76
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4f1737e467eda70800000000000000
+      internalID: 8853643996773348534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_113
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 75
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba38337c388d220800000000000000
+      internalID: 2510901683845049109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_114
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 75
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67247613a6b86ce50800000000000000
+      internalID: 6829299173165580918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_115
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 75
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9893d7e224427020800000000000000
+      internalID: 2338006073267689630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2189025efc5118bd0800000000000000
+      internalID: -2629796724761126894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_117
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b626ca329867ba010800000000000000
+      internalID: 1201184057005466219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88911b1f72cb7f630800000000000000
+      internalID: 3960841277040302472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_119
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18344e624d02d3550800000000000000
+      internalID: 6142101562360873857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_120
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe09980c8ea7ba0800000000000000
+      internalID: -6090299632425832541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1303a6b6261e070800000000000000
+      internalID: 8133890615490392543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_122
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434871eb4c742e270800000000000000
+      internalID: 8278257975388767284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_123
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437bced581108bde0800000000000000
+      internalID: -1317301686839232716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_124
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda25e93556260c0800000000000000
+      internalID: -4583990060896834087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_125
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67ee07325dce5e10800000000000000
+      internalID: 2188412221943375727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_126
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09191bd048ba63f90800000000000000
+      internalID: -6974198389282860656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_127
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 5
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c05222262d4ed0800000000000000
+      internalID: -2428242696036366876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_128
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf96b9b459ff760800000000000000
+      internalID: 7493872456930294768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_129
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91098501ccf55ae50800000000000000
+      internalID: 6819962540774690841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_130
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bb61251592ce80800000000000000
+      internalID: -8159795656854358698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 4
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc10b6caf91f370800000000000000
+      internalID: 8354634346627452400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_132
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60da956a1bf4324f0800000000000000
+      internalID: -854751879851561722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_133
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cee9b0c32a032e0800000000000000
+      internalID: -2148038643479024555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_134
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 4
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125890ecf3732820800000000000000
+      internalID: 2892282915639022106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_135
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 4
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e07901e0105310800000000000000
+      internalID: 1391630843569563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFirst_136
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 4
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d15bc47e6b4ba0800000000000000
+      internalID: -6103663422064175632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

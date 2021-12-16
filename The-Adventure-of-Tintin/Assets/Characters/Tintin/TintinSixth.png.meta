@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 50463b0546dc99248b76acefd553527d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1179874755563867505
+    second: TintinSixth_0
+  - first:
+      213: -6876351538758260975
+    second: TintinSixth_1
+  - first:
+      213: 945245829837590335
+    second: TintinSixth_2
+  - first:
+      213: 6316995260170178176
+    second: TintinSixth_3
+  - first:
+      213: 3698901535584113635
+    second: TintinSixth_4
+  - first:
+      213: 275534044130854905
+    second: TintinSixth_5
+  - first:
+      213: -3720581171551359112
+    second: TintinSixth_6
+  - first:
+      213: -2407843686046326116
+    second: TintinSixth_7
+  - first:
+      213: -260777791880296588
+    second: TintinSixth_8
+  - first:
+      213: -8160668070806732475
+    second: TintinSixth_9
+  - first:
+      213: 1294606959796542758
+    second: TintinSixth_10
+  - first:
+      213: 2500963060563654801
+    second: TintinSixth_11
+  - first:
+      213: 902632684508722909
+    second: TintinSixth_12
+  - first:
+      213: 8934129141327333370
+    second: TintinSixth_13
+  - first:
+      213: -2152295967184320961
+    second: TintinSixth_14
+  - first:
+      213: 7781591995845907509
+    second: TintinSixth_15
+  - first:
+      213: 8140212843270805095
+    second: TintinSixth_16
+  - first:
+      213: 3704571540838826917
+    second: TintinSixth_17
+  - first:
+      213: -6080646875066923126
+    second: TintinSixth_18
+  - first:
+      213: -7469505335968432536
+    second: TintinSixth_19
+  - first:
+      213: 2401934527336609522
+    second: TintinSixth_20
+  - first:
+      213: 7499630849582263919
+    second: TintinSixth_21
+  - first:
+      213: 973166136014156292
+    second: TintinSixth_22
+  - first:
+      213: 2689478967546361852
+    second: TintinSixth_23
+  - first:
+      213: -6483240429719387984
+    second: TintinSixth_24
+  - first:
+      213: 2582353844476717972
+    second: TintinSixth_25
+  - first:
+      213: 554699191684866512
+    second: TintinSixth_26
+  - first:
+      213: -898462862578323990
+    second: TintinSixth_27
+  - first:
+      213: -2299564438846524615
+    second: TintinSixth_28
+  - first:
+      213: -5114999409758326245
+    second: TintinSixth_29
+  - first:
+      213: -937996758286747917
+    second: TintinSixth_30
+  - first:
+      213: -7911935109048986689
+    second: TintinSixth_31
+  - first:
+      213: -7947395454684981485
+    second: TintinSixth_32
+  - first:
+      213: -784283490201298060
+    second: TintinSixth_33
+  - first:
+      213: -1116346183999415718
+    second: TintinSixth_34
+  - first:
+      213: 7729458693007194641
+    second: TintinSixth_35
+  - first:
+      213: 4391819344148630494
+    second: TintinSixth_36
+  - first:
+      213: -5363524979713798413
+    second: TintinSixth_37
+  - first:
+      213: 5807809883781410161
+    second: TintinSixth_38
+  - first:
+      213: 1793599370376928141
+    second: TintinSixth_39
+  - first:
+      213: -4948571162960759151
+    second: TintinSixth_40
+  - first:
+      213: 3932377203256219612
+    second: TintinSixth_41
+  - first:
+      213: -4579121486461162380
+    second: TintinSixth_42
+  - first:
+      213: 5139839343604239502
+    second: TintinSixth_43
+  - first:
+      213: 8776291897793998246
+    second: TintinSixth_44
+  - first:
+      213: -6835005610433442194
+    second: TintinSixth_45
+  - first:
+      213: -1204064343340981650
+    second: TintinSixth_46
+  - first:
+      213: -411877372875494669
+    second: TintinSixth_47
+  - first:
+      213: -8614673132173558691
+    second: TintinSixth_48
+  - first:
+      213: 1332741577495106231
+    second: TintinSixth_49
+  - first:
+      213: -2254033679287709408
+    second: TintinSixth_50
+  - first:
+      213: -4412229290632064832
+    second: TintinSixth_51
+  - first:
+      213: 8728872576590702443
+    second: TintinSixth_52
+  - first:
+      213: 1141305895441641380
+    second: TintinSixth_72
+  - first:
+      213: -8265508314072422094
+    second: TintinSixth_73
+  - first:
+      213: -2398702107603045951
+    second: TintinSixth_74
+  - first:
+      213: 3547656301165882601
+    second: TintinSixth_75
+  - first:
+      213: -6730127799175526701
+    second: TintinSixth_76
+  - first:
+      213: -8343152293844500169
+    second: TintinSixth_77
+  - first:
+      213: 3766084129942323301
+    second: TintinSixth_86
+  - first:
+      213: 774487243645985893
+    second: TintinSixth_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TintinSixth_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 405
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc5d4c6d1cf5010800000000000000
+      internalID: 1179874755563867505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176a9d35ba4290a0800000000000000
+      internalID: -6876351538758260975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 405
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f83e8f2103e1d00800000000000000
+      internalID: 945245829837590335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 402
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e054268b97aa750800000000000000
+      internalID: 6316995260170178176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 401
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e353a75953255330800000000000000
+      internalID: 3698901535584113635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 400
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f742f7d0c4e2d300800000000000000
+      internalID: 275534044130854905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 399
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87facaf0327dd5cc0800000000000000
+      internalID: -3720581171551359112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 401
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92aa82ccee959ed0800000000000000
+      internalID: -2407843686046326116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 398
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4770aaddaf7816cf0800000000000000
+      internalID: -260777791880296588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 397
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54141bd60ab7fbe80800000000000000
+      internalID: -8160668070806732475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 337
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddb6abb2e57f110800000000000000
+      internalID: 1294606959796542758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198354527a435b220800000000000000
+      internalID: 2500963060563654801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 329
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bccae4abc68c00800000000000000
+      internalID: 902632684508722909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 332
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af708467e176cfb70800000000000000
+      internalID: 8934129141327333370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 330
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360970a8328122e0800000000000000
+      internalID: -2152295967184320961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5341b6b01b4cdfb60800000000000000
+      internalID: 7781591995845907509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 259
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7669a37c378d7f070800000000000000
+      internalID: 8140212843270805095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a348b05038496330800000000000000
+      internalID: 3704571540838826917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 257
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870c0f32e33d9ba0800000000000000
+      internalID: -6080646875066923126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 257
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e77b9d87cf65890800000000000000
+      internalID: -7469505335968432536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f4a30ab2655120800000000000000
+      internalID: 2401934527336609522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e69efd58a041860800000000000000
+      internalID: 7499630849582263919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 202
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023094d171618d00800000000000000
+      internalID: 973166136014156292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf73c7b1fd2f25520800000000000000
+      internalID: 2689478967546361852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 206
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00029cd27e606a0800000000000000
+      internalID: -6483240429719387984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 196
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2660c32d56d320800000000000000
+      internalID: 2582353844476717972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 185
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a295d9ffa2b700800000000000000
+      internalID: 554699191684866512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 202
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed632869c40883f0800000000000000
+      internalID: -898462862578323990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933be64935e4610e0800000000000000
+      internalID: -2299564438846524615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 188
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b503232fd309b0800000000000000
+      internalID: -5114999409758326245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 202
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b9d50be09bf2f0800000000000000
+      internalID: -937996758286747917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3913300f8233290800000000000000
+      internalID: -7911935109048986689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 185
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31792f9e0fd25b190800000000000000
+      internalID: -7947395454684981485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 196
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b195b225aad15f0800000000000000
+      internalID: -784283490201298060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 196
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1a507f01f180f0800000000000000
+      internalID: -1116346183999415718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abfb69abd844b60800000000000000
+      internalID: 7729458693007194641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 184
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb0ba5bc60e2fc30800000000000000
+      internalID: 4391819344148630494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 185
+        width: 135
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8938b27ee095b0800000000000000
+      internalID: -5363524979713798413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2bc5715c799050800000000000000
+      internalID: 5807809883781410161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5eacdf1524e810800000000000000
+      internalID: 1793599370376928141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 146
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1967bf5feb4235bb0800000000000000
+      internalID: -4948571162960759151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75ee25b3c929630800000000000000
+      internalID: 3932377203256219612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47caf10f441b370c0800000000000000
+      internalID: -4579121486461162380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 107
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8b16a6a0645740800000000000000
+      internalID: 5139839343604239502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 105
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad66257bf6abc970800000000000000
+      internalID: 8776291897793998246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e00585c9e2521a0800000000000000
+      internalID: -6835005610433442194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 59
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626270fbdd4a4fe0800000000000000
+      internalID: -1204064343340981650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 52
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa2cba26b7b84af0800000000000000
+      internalID: -411877372875494669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 52
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c71b4cd68827880800000000000000
+      internalID: -8614673132173558691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 53
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b25dff4769de7210800000000000000
+      internalID: 1332741577495106231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 53
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211a42af4018b0e0800000000000000
+      internalID: -2254033679287709408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05d4056dc94c2c0800000000000000
+      internalID: -4412229290632064832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 51
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6766516c5f232970800000000000000
+      internalID: 8728872576590702443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afabdd3aabb6df00800000000000000
+      internalID: 1141305895441641380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ecab1bf30b4d80800000000000000
+      internalID: -8265508314072422094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f65a542916bed0800000000000000
+      internalID: -2398702107603045951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2b201c9ecb3130800000000000000
+      internalID: 3547656301165882601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_76
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 8
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d64925ac68c992a0800000000000000
+      internalID: -6730127799175526701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 11
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c962513b273c80800000000000000
+      internalID: -8343152293844500169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_86
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c2770091d34430800000000000000
+      internalID: 3766084129942323301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinSixth_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56427907b088fba00800000000000000
+      internalID: 774487243645985893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

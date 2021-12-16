@@ -1,0 +1,5508 @@
+fileFormatVersion: 2
+guid: 52e56e772482df8428c82e3187660317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8606616002025312534
+    second: Haddock op1_5
+  - first:
+      213: -4180865966030029798
+    second: Haddock op1_6
+  - first:
+      213: 52225918721735832
+    second: Haddock op1_7
+  - first:
+      213: -583734944120363135
+    second: Haddock op1_8
+  - first:
+      213: 1286521919948477177
+    second: Haddock op1_9
+  - first:
+      213: -3423215914887969760
+    second: Haddock op1_10
+  - first:
+      213: -5536968812962876195
+    second: Haddock op1_11
+  - first:
+      213: -1521216579035242390
+    second: Haddock op1_12
+  - first:
+      213: -2685597063015767621
+    second: Haddock op1_14
+  - first:
+      213: 9174631042061527644
+    second: Haddock op1_15
+  - first:
+      213: 141927006675571342
+    second: Haddock op1_16
+  - first:
+      213: -4275031750749900582
+    second: Haddock op1_17
+  - first:
+      213: 5068740731408354130
+    second: Haddock op1_18
+  - first:
+      213: 9049862584163030024
+    second: Haddock op1_19
+  - first:
+      213: 5800694140018723437
+    second: Haddock op1_20
+  - first:
+      213: 432252139541306076
+    second: Haddock op1_21
+  - first:
+      213: 5182081651182214685
+    second: Haddock op1_23
+  - first:
+      213: -3114183769814383813
+    second: Haddock op1_24
+  - first:
+      213: 1143511228717305444
+    second: Haddock op1_25
+  - first:
+      213: 6070558599929232762
+    second: Haddock op1_26
+  - first:
+      213: 9088603317847769653
+    second: Haddock op1_27
+  - first:
+      213: -8526147254170660944
+    second: Haddock op1_28
+  - first:
+      213: -266895685768421134
+    second: Haddock op1_29
+  - first:
+      213: 876277632045221224
+    second: Haddock op1_30
+  - first:
+      213: 3372334728957980172
+    second: Haddock op1_32
+  - first:
+      213: 4479988025030383938
+    second: Haddock op1_33
+  - first:
+      213: -6748535245583264716
+    second: Haddock op1_34
+  - first:
+      213: 4749712320402819868
+    second: Haddock op1_35
+  - first:
+      213: -5381874446117845057
+    second: Haddock op1_36
+  - first:
+      213: -7523150378210067625
+    second: Haddock op1_37
+  - first:
+      213: -5462311293456013589
+    second: Haddock op1_38
+  - first:
+      213: 6646900769580765553
+    second: Haddock op1_39
+  - first:
+      213: 7289683514332285372
+    second: Haddock op1_41
+  - first:
+      213: 561134110381211103
+    second: Haddock op1_42
+  - first:
+      213: -2693896567970421119
+    second: Haddock op1_43
+  - first:
+      213: 3234790881252299450
+    second: Haddock op1_44
+  - first:
+      213: 7134331376918511205
+    second: Haddock op1_45
+  - first:
+      213: 1784423370797817208
+    second: Haddock op1_46
+  - first:
+      213: -4816489277757016331
+    second: Haddock op1_47
+  - first:
+      213: 6742032963200014123
+    second: Haddock op1_48
+  - first:
+      213: -1327026470174765577
+    second: Haddock op1_50
+  - first:
+      213: 7705666323016159209
+    second: Haddock op1_51
+  - first:
+      213: 2920815605124951812
+    second: Haddock op1_52
+  - first:
+      213: -6889952605211958188
+    second: Haddock op1_53
+  - first:
+      213: 5102398109405186579
+    second: Haddock op1_54
+  - first:
+      213: 6676708542332468348
+    second: Haddock op1_55
+  - first:
+      213: -7264722567566327889
+    second: Haddock op1_56
+  - first:
+      213: 6520064013974392809
+    second: Haddock op1_57
+  - first:
+      213: 4244333130457371254
+    second: Haddock op1_58
+  - first:
+      213: -3307317056328225403
+    second: Haddock op1_59
+  - first:
+      213: 8264704769074203774
+    second: Haddock op1_60
+  - first:
+      213: -6086449748802340253
+    second: Haddock op1_61
+  - first:
+      213: -7711755335318903504
+    second: Haddock op1_62
+  - first:
+      213: 302925776422085633
+    second: Haddock op1_63
+  - first:
+      213: -9022568763720427266
+    second: Haddock op1_64
+  - first:
+      213: 2885881874717724196
+    second: Haddock op1_65
+  - first:
+      213: -112998789055080749
+    second: Haddock op1_66
+  - first:
+      213: -2152798773399603603
+    second: Haddock op1_67
+  - first:
+      213: 5335515098883836889
+    second: Haddock op1_68
+  - first:
+      213: -6699123997545534633
+    second: Haddock op1_69
+  - first:
+      213: -5700766915608599012
+    second: Haddock op1_70
+  - first:
+      213: -7614335472267314077
+    second: Haddock op1_71
+  - first:
+      213: -6629706714295291841
+    second: Haddock op1_72
+  - first:
+      213: -6622241497454749918
+    second: Haddock op1_73
+  - first:
+      213: -2858068114480507762
+    second: Haddock op1_75
+  - first:
+      213: 5015167017959944750
+    second: Haddock op1_76
+  - first:
+      213: -8371404678085490873
+    second: Haddock op1_77
+  - first:
+      213: 5762572633000954472
+    second: Haddock op1_78
+  - first:
+      213: -3206488552610242096
+    second: Haddock op1_79
+  - first:
+      213: 2754331798406647083
+    second: Haddock op1_80
+  - first:
+      213: 3619200619956444010
+    second: Haddock op1_81
+  - first:
+      213: 6159517257906223416
+    second: Haddock op1_82
+  - first:
+      213: 6091669784149648180
+    second: Haddock op1_84
+  - first:
+      213: 6664259836278875332
+    second: Haddock op1_85
+  - first:
+      213: 3469841561258237816
+    second: Haddock op1_86
+  - first:
+      213: 4184667273486903001
+    second: Haddock op1_87
+  - first:
+      213: -452589806635534548
+    second: Haddock op1_88
+  - first:
+      213: 6356127883019194898
+    second: Haddock op1_89
+  - first:
+      213: 3570544533579045562
+    second: Haddock op1_90
+  - first:
+      213: -2511238788957158728
+    second: Haddock op1_91
+  - first:
+      213: 9109204286587502939
+    second: Haddock op1_93
+  - first:
+      213: 3290074273762213215
+    second: Haddock op1_94
+  - first:
+      213: 4795906751352984990
+    second: Haddock op1_95
+  - first:
+      213: 2804617953829702682
+    second: Haddock op1_96
+  - first:
+      213: -5862062170068884786
+    second: Haddock op1_97
+  - first:
+      213: 5478840683359419414
+    second: Haddock op1_98
+  - first:
+      213: 2772564515803626225
+    second: Haddock op1_99
+  - first:
+      213: -2955914539892497431
+    second: Haddock op1_100
+  - first:
+      213: -1047076454878350980
+    second: Haddock op1_102
+  - first:
+      213: 7727766880627610401
+    second: Haddock op1_103
+  - first:
+      213: -3334731780306915357
+    second: Haddock op1_104
+  - first:
+      213: 8694310529979331527
+    second: Haddock op1_105
+  - first:
+      213: 7187450279933905006
+    second: Haddock op1_106
+  - first:
+      213: 8603594892146749033
+    second: Haddock op1_107
+  - first:
+      213: 2112654840395477156
+    second: Haddock op1_108
+  - first:
+      213: -1218228637518829214
+    second: Haddock op1_109
+  - first:
+      213: -4831288630650958691
+    second: Haddock op1_111
+  - first:
+      213: 6203192910356588067
+    second: Haddock op1_112
+  - first:
+      213: -1141339662984028106
+    second: Haddock op1_113
+  - first:
+      213: 7330693313620507485
+    second: Haddock op1_114
+  - first:
+      213: -6332580318180399156
+    second: Haddock op1_115
+  - first:
+      213: 8262693274634192945
+    second: Haddock op1_116
+  - first:
+      213: -3454862431200651914
+    second: Haddock op1_117
+  - first:
+      213: 1342641998667103473
+    second: Haddock op1_118
+  - first:
+      213: -6027815077258408296
+    second: Haddock op1_120
+  - first:
+      213: -7883874766684709302
+    second: Haddock op1_121
+  - first:
+      213: 3123532445673432251
+    second: Haddock op1_122
+  - first:
+      213: -6404310025329663254
+    second: Haddock op1_123
+  - first:
+      213: -261017273380363929
+    second: Haddock op1_124
+  - first:
+      213: 2700924792398860396
+    second: Haddock op1_125
+  - first:
+      213: -5245993988761181413
+    second: Haddock op1_126
+  - first:
+      213: 720371609828270895
+    second: Haddock op1_127
+  - first:
+      213: -1307713328171397803
+    second: Haddock op1_132
+  - first:
+      213: 6063552468143605315
+    second: Haddock op1_133
+  - first:
+      213: -7139768889250177357
+    second: Haddock op1_134
+  - first:
+      213: -3338504092757582566
+    second: Haddock op1_135
+  - first:
+      213: -5967688288935543382
+    second: Haddock op1_136
+  - first:
+      213: 4563016988417436179
+    second: Haddock op1_137
+  - first:
+      213: 7909597617540030055
+    second: Haddock op1_138
+  - first:
+      213: 8790951472308834086
+    second: Haddock op1_139
+  - first:
+      213: 9217831841814411853
+    second: Haddock op1_141
+  - first:
+      213: -4447844887516639799
+    second: Haddock op1_142
+  - first:
+      213: -2655713915677922664
+    second: Haddock op1_143
+  - first:
+      213: -4044408252314129809
+    second: Haddock op1_144
+  - first:
+      213: -3647862454062990351
+    second: Haddock op1_145
+  - first:
+      213: -1555280676672141729
+    second: Haddock op1_146
+  - first:
+      213: 8940808077376612042
+    second: Haddock op1_147
+  - first:
+      213: 2052108339141184527
+    second: Haddock op1_148
+  - first:
+      213: -7097014384058093609
+    second: Haddock op1_150
+  - first:
+      213: 8102461288954906237
+    second: Haddock op1_151
+  - first:
+      213: 210646916725209933
+    second: Haddock op1_152
+  - first:
+      213: 994208702318278738
+    second: Haddock op1_153
+  - first:
+      213: -6681322786680831110
+    second: Haddock op1_154
+  - first:
+      213: 8598438795525016115
+    second: Haddock op1_155
+  - first:
+      213: 3547973732093582842
+    second: Haddock op1_156
+  - first:
+      213: -1743956059390556202
+    second: Haddock op1_157
+  - first:
+      213: -5615513688877235985
+    second: Haddock op1_158
+  - first:
+      213: -8055008084825560131
+    second: Haddock op1_159
+  - first:
+      213: -1532427350435875367
+    second: Haddock op1_160
+  - first:
+      213: -8813948097364195812
+    second: Haddock op1_161
+  - first:
+      213: -662175236079960137
+    second: Haddock op1_162
+  - first:
+      213: 4828851585101056963
+    second: Haddock op1_163
+  - first:
+      213: 2496172804731551179
+    second: Haddock op1_164
+  - first:
+      213: -2685422017204792815
+    second: Haddock op1_165
+  - first:
+      213: 5135807636603844764
+    second: Haddock op1_167
+  - first:
+      213: -178650501840272068
+    second: Haddock op1_168
+  - first:
+      213: -5968704027813246234
+    second: Haddock op1_169
+  - first:
+      213: 2653965596187555135
+    second: Haddock op1_170
+  - first:
+      213: 5641027353864842045
+    second: Haddock op1_171
+  - first:
+      213: 5100171768648529335
+    second: Haddock op1_172
+  - first:
+      213: -6278921641601213839
+    second: Haddock op1_173
+  - first:
+      213: 4467188426068147845
+    second: Haddock op1_174
+  - first:
+      213: 8985908160424928512
+    second: Haddock op1_176
+  - first:
+      213: 8266500672923247388
+    second: Haddock op1_177
+  - first:
+      213: -814991058730688342
+    second: Haddock op1_178
+  - first:
+      213: 6889551887447829166
+    second: Haddock op1_179
+  - first:
+      213: -56966515290362665
+    second: Haddock op1_180
+  - first:
+      213: -8867762997003173306
+    second: Haddock op1_181
+  - first:
+      213: -7082314200291615243
+    second: Haddock op1_182
+  - first:
+      213: 8834152879617251260
+    second: Haddock op1_183
+  - first:
+      213: 8665966464062165921
+    second: Haddock op1_185
+  - first:
+      213: -232151303827336214
+    second: Haddock op1_186
+  - first:
+      213: 3666906333243703018
+    second: Haddock op1_187
+  - first:
+      213: -3941674744409539756
+    second: Haddock op1_188
+  - first:
+      213: -1719846063576162298
+    second: Haddock op1_189
+  - first:
+      213: -1634822431977389831
+    second: Haddock op1_190
+  - first:
+      213: 6791841694194633355
+    second: Haddock op1_191
+  - first:
+      213: -528039154432492182
+    second: Haddock op1_192
+  - first:
+      213: 3262582618246423366
+    second: Haddock op1_194
+  - first:
+      213: 4052475432867863220
+    second: Haddock op1_195
+  - first:
+      213: -6360341264302184575
+    second: Haddock op1_196
+  - first:
+      213: -212690835681819747
+    second: Haddock op1_197
+  - first:
+      213: -481103034699454914
+    second: Haddock op1_198
+  - first:
+      213: -4437730100771265867
+    second: Haddock op1_199
+  - first:
+      213: -2924647084334346429
+    second: Haddock op1_200
+  - first:
+      213: -6737478112889645432
+    second: Haddock op1_201
+  - first:
+      213: -4189746817837399639
+    second: Haddock op1_204
+  - first:
+      213: -3395103841441673444
+    second: Haddock op1_205
+  - first:
+      213: -7209444522502131525
+    second: Haddock op1_206
+  - first:
+      213: 5689851781636896720
+    second: Haddock op1_207
+  - first:
+      213: 7783659174309874335
+    second: Haddock op1_208
+  - first:
+      213: 4187418670616343816
+    second: Haddock op1_209
+  - first:
+      213: 5783264658978439435
+    second: Haddock op1_210
+  - first:
+      213: -6509350584591656842
+    second: Haddock op1_211
+  - first:
+      213: -5677659129919528296
+    second: Haddock op1_213
+  - first:
+      213: 6703789745925675625
+    second: Haddock op1_214
+  - first:
+      213: -3919101467999682748
+    second: Haddock op1_215
+  - first:
+      213: 8963607092093037321
+    second: Haddock op1_216
+  - first:
+      213: 2167492973468644910
+    second: Haddock op1_217
+  - first:
+      213: 4847035021106549426
+    second: Haddock op1_218
+  - first:
+      213: -7080352609535409855
+    second: Haddock op1_219
+  - first:
+      213: -2418181058885603687
+    second: Haddock op1_220
+  - first:
+      213: 975609596833680445
+    second: Haddock op1_221
+  - first:
+      213: 3550698502233957236
+    second: Haddock op1_222
+  - first:
+      213: -6193574830986606241
+    second: Haddock op1_223
+  - first:
+      213: 2742566190468036191
+    second: Haddock op1_224
+  - first:
+      213: -7986542211771605963
+    second: Haddock op1_225
+  - first:
+      213: 8225034939563357864
+    second: Haddock op1_226
+  - first:
+      213: -5408098743289610321
+    second: Haddock op1_227
+  - first:
+      213: 9115080985695950887
+    second: Haddock op1_228
+  - first:
+      213: 5910265397167701206
+    second: Haddock op1_229
+  - first:
+      213: -7178604235061340695
+    second: Haddock op1_230
+  - first:
+      213: 1042919080578098581
+    second: Haddock op1_231
+  - first:
+      213: 1135137700505794011
+    second: Haddock op1_232
+  - first:
+      213: -4823031576993894788
+    second: Haddock op1_233
+  - first:
+      213: -3436925056666218118
+    second: Haddock op1_234
+  - first:
+      213: 1656596307936382468
+    second: Haddock op1_235
+  - first:
+      213: 7095895337563707520
+    second: Haddock op1_236
+  - first:
+      213: -7141184199583162376
+    second: Haddock op1_242
+  - first:
+      213: -192762025635998518
+    second: Haddock op1_247
+  - first:
+      213: -6331191296948169071
+    second: Haddock op1_248
+  - first:
+      213: -4509386283643263858
+    second: Haddock op1_249
+  - first:
+      213: -5027435237028193429
+    second: Haddock op1_250
+  - first:
+      213: -5654090442510186170
+    second: Haddock op1_251
+  - first:
+      213: 9114920831821422897
+    second: Haddock op1_252
+  - first:
+      213: -7067219200891719354
+    second: Haddock op1_253
+  - first:
+      213: 477630894325022779
+    second: Haddock op1_254
+  - first:
+      213: 1194587498616486067
+    second: Haddock op1_256
+  - first:
+      213: 167770300251231614
+    second: Haddock op1_257
+  - first:
+      213: 1724934287779172106
+    second: Haddock op1_258
+  - first:
+      213: 2347849511903843733
+    second: Haddock op1_259
+  - first:
+      213: 4150790259583747268
+    second: Haddock op1_260
+  - first:
+      213: -6687435357132322967
+    second: Haddock op1_261
+  - first:
+      213: -4447909451669805127
+    second: Haddock op1_262
+  - first:
+      213: 1530906123569596403
+    second: Haddock op1_263
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haddock op1_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 265
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61159ee67a7d07770800000000000000
+      internalID: 8606616002025312534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 265
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c72491e849af5c0800000000000000
+      internalID: -4180865966030029798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3a75423b89b000800000000000000
+      internalID: 52225918721735832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18729bc392826e7f0800000000000000
+      internalID: -583734944120363135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 265
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25842bed4aad110800000000000000
+      internalID: 1286521919948477177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 265
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02483ab234b4e70d0800000000000000
+      internalID: -3423215914887969760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 265
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47ee2633cb823b0800000000000000
+      internalID: -5536968812962876195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 265
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606b24c49d83eae0800000000000000
+      internalID: -1521216579035242390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 265
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ec1933b7dabad0800000000000000
+      internalID: -2685597063015767621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a695fc256d25f70800000000000000
+      internalID: 9174631042061527644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829ee05cd938f100800000000000000
+      internalID: 141927006675571342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 265
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad03905d5490ca4c0800000000000000
+      internalID: -4275031750749900582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b062207d8c75640800000000000000
+      internalID: 5068740731408354130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d2237212979d70800000000000000
+      internalID: 9049862584163030024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 265
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a81824694308050800000000000000
+      internalID: 5800694140018723437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 265
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda13ced70baff500800000000000000
+      internalID: 432252139541306076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 267
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e19cf4ec37ae740800000000000000
+      internalID: 5182081651182214685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_24
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 265
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334dea6c5238c4d0800000000000000
+      internalID: -3114183769814383813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 265
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e8d5867619edf00800000000000000
+      internalID: 1143511228717305444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 265
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d79f822e4fe3450800000000000000
+      internalID: 6070558599929232762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 265
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532c0c86094312e70800000000000000
+      internalID: 9088603317847769653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 265
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4c7cee3a0da980800000000000000
+      internalID: -8526147254170660944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 267
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f060b1b9cbcb4cf0800000000000000
+      internalID: -266895685768421134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 265
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8650da61dd9292c00800000000000000
+      internalID: 876277632045221224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee04f8190fcce20800000000000000
+      internalID: 3372334728957980172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24990fd6f5d1c2e30800000000000000
+      internalID: 4479988025030383938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4345ecc03f26852a0800000000000000
+      internalID: -6748535245583264716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b08eab03e5ae140800000000000000
+      internalID: 4749712320402819868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c465a4bdbf45b0800000000000000
+      internalID: -5381874446117845057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 241
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b71f22796689790800000000000000
+      internalID: -7523150378210067625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be623f4b1d8f134b0800000000000000
+      internalID: -5462311293456013589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d12c78098e3c50800000000000000
+      internalID: 6646900769580765553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90ccca8882a2560800000000000000
+      internalID: 7289683514332285372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd70a8108c89c700800000000000000
+      internalID: 561134110381211103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186aa74285b5d9ad0800000000000000
+      internalID: -2693896567970421119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 241
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab257b7fa2944ec20800000000000000
+      internalID: 3234790881252299450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb627869c320360800000000000000
+      internalID: 7134331376918511205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1f49f99b83c810800000000000000
+      internalID: 1784423370797817208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6b0de4584682db0800000000000000
+      internalID: -4816489277757016331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 241
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d28b5243809d50800000000000000
+      internalID: 6742032963200014123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 241
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd41bdc474759de0800000000000000
+      internalID: -1327026470174765577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 241
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8115c1b600fa60800000000000000
+      internalID: 7705666323016159209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 241
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe3e55152d88820800000000000000
+      internalID: 2920815605124951812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_53
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454601f2c98f160a0800000000000000
+      internalID: -6889952605211958188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 241
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a88bdfb0c5fc640800000000000000
+      internalID: 5102398109405186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_55
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 241
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfa866b0f68ac50800000000000000
+      internalID: 6676708542332468348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 241
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faff170a0558e2b90800000000000000
+      internalID: -7264722567566327889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 241
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef40c90dabeb7a50800000000000000
+      internalID: 6520064013974392809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 217
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725555ae76e6ea30800000000000000
+      internalID: 4244333130457371254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 217
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d27f109ac0a12d0800000000000000
+      internalID: -3307317056328225403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 217
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c052ef23122b270800000000000000
+      internalID: 8264704769074203774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afe5b6336988ba0800000000000000
+      internalID: -6086449748802340253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 217
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e79391675af490800000000000000
+      internalID: -7711755335318903504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 217
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a2f08365343400800000000000000
+      internalID: 302925776422085633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 217
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef898e4538569c280800000000000000
+      internalID: -9022568763720427266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 217
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec9466646bc0820800000000000000
+      internalID: 2885881874717724196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 217
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69256333c8e6ef0800000000000000
+      internalID: -112998789055080749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66be9eebe8bf12e0800000000000000
+      internalID: -2152798773399603603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db44b2b6be8b0a40800000000000000
+      internalID: 5335515098883836889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75be00cb73ee703a0800000000000000
+      internalID: -6699123997545534633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a9d7b1bec2e0b0800000000000000
+      internalID: -5700766915608599012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb9defa32745690800000000000000
+      internalID: -7614335472267314077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 217
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3038697edc8ef3a0800000000000000
+      internalID: -6629706714295291841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 217
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227db57b1721914a0800000000000000
+      internalID: -6622241497454749918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_75
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84d48c413a1658d0800000000000000
+      internalID: -2858068114480507762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_76
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 217
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f1c2d4d3799540800000000000000
+      internalID: 5015167017959944750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747cba38ccbc2db80800000000000000
+      internalID: -8371404678085490873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac86e3745c8ff40800000000000000
+      internalID: 5762572633000954472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_79
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d16f4d66a34083d0800000000000000
+      internalID: -3206488552610242096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_80
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 217
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d47957d2a593620800000000000000
+      internalID: 2754331798406647083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_81
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b906bd9cbf93230800000000000000
+      internalID: 3619200619956444010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_82
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 217
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397361cf400b7550800000000000000
+      internalID: 6159517257906223416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 195
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4336835c465f98450800000000000000
+      internalID: 6091669784149648180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42e4823053c7c50800000000000000
+      internalID: 6664259836278875332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f1fa5148a572030800000000000000
+      internalID: 3469841561258237816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a363c6bce21a30800000000000000
+      internalID: 4184667273486903001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27b68208f318b9f0800000000000000
+      internalID: -452589806635534548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212905622a0853850800000000000000
+      internalID: 6356127883019194898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 195
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba11b2f55f1d8130800000000000000
+      internalID: 3570544533579045562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_91
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c60660a9462dd0800000000000000
+      internalID: -2511238788957158728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 195
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51838839056a6e70800000000000000
+      internalID: 9109204286587502939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_94
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 193
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7f34de11b8ad20800000000000000
+      internalID: 3290074273762213215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_95
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95da42d7cb7e8240800000000000000
+      internalID: 4795906751352984990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 193
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cc3b46b210ce620800000000000000
+      internalID: 2804617953829702682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e9cdc385c5aea0800000000000000
+      internalID: -5862062170068884786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 193
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb898c290c80c40800000000000000
+      internalID: 5478840683359419414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 195
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf359ccb02a7620800000000000000
+      internalID: 2772564515803626225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ab47136b7af6d0800000000000000
+      internalID: -2955914539892497431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_102
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 193
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fc4e03890871f0800000000000000
+      internalID: -1047076454878350980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12356d2d80b8e3b60800000000000000
+      internalID: 7727766880627610401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_104
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 193
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efa99d2d17a8b1d0800000000000000
+      internalID: -3334731780306915357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_105
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33b52dc5568a870800000000000000
+      internalID: 8694310529979331527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680e38e2f3feb360800000000000000
+      internalID: 7187450279933905006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_107
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 193
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea5c978fb166770800000000000000
+      internalID: 8603594892146749033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_108
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 194
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a038ce4268a15d10800000000000000
+      internalID: 2112654840395477156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_109
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 192
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696b75328bf71fe0800000000000000
+      internalID: -1218228637518829214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8aa27690d3fcb0800000000000000
+      internalID: -4831288630650958691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_112
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a607061b261650800000000000000
+      internalID: 6203192910356588067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 171
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e5c3af952920f0800000000000000
+      internalID: -1141339662984028106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 169
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b7ea3aabadbb560800000000000000
+      internalID: 7330693313620507485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 171
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72a3780c72e18a0800000000000000
+      internalID: -6332580318180399156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 169
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138849271cbfaa270800000000000000
+      internalID: 8262693274634192945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_117
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 171
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67551786cecdd00d0800000000000000
+      internalID: -3454862431200651914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_118
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 171
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb21fb8c502a210800000000000000
+      internalID: 1342641998667103473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_120
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec44cbf16e85ca0800000000000000
+      internalID: -6027815077258408296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 169
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e97169ba9d69290800000000000000
+      internalID: -7883874766684709302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 169
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a5ccc534095b20800000000000000
+      internalID: 3123532445673432251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 169
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a0c4a6f15f17a0800000000000000
+      internalID: -6404310025329663254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_124
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 169
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7612ceb3c2ea06cf0800000000000000
+      internalID: -261017273380363929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_125
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60daffd9cc9b7520800000000000000
+      internalID: 2700924792398860396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_126
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 169
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b132e0ef24c7237b0800000000000000
+      internalID: -5245993988761181413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 169
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23271699264ff900800000000000000
+      internalID: 720371609828270895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcc4618a11adde0800000000000000
+      internalID: -1307713328171397803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34684acf7d0162450800000000000000
+      internalID: 6063552468143605315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be9bd9f5027aec90800000000000000
+      internalID: -7139768889250177357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 145
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1ffd37304ba1d0800000000000000
+      internalID: -3338504092757582566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadfcbf8e138e2da0800000000000000
+      internalID: -5967688288935543382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa1ba66c7135f30800000000000000
+      internalID: 4563016988417436179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_138
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76edfb5502984cd60800000000000000
+      internalID: 7909597617540030055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_139
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4aa0a9cbbff970800000000000000
+      internalID: 8790951472308834086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_141
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 145
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af1a2d8315cef70800000000000000
+      internalID: 9217831841814411853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_142
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 145
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd8887f3a41642c0800000000000000
+      internalID: -4447844887516639799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_143
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 145
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa4f6a342052bd0800000000000000
+      internalID: -2655713915677922664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_144
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 145
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a682a6f106fd7c0800000000000000
+      internalID: -4044408252314129809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_145
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb371cdc60306dc0800000000000000
+      internalID: -3647862454062990351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_146
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 145
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f568decf6788a6ae0800000000000000
+      internalID: -1555280676672141729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 145
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e9f07391241c70800000000000000
+      internalID: 8940808077376612042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_148
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 145
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c802379ad8a7c10800000000000000
+      internalID: 2052108339141184527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_150
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df2160f407528d90800000000000000
+      internalID: -7097014384058093609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_151
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c2861d99b17070800000000000000
+      internalID: 8102461288954906237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_152
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bff64314e5ce200800000000000000
+      internalID: 210646916725209933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_153
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25878461c832ccd00800000000000000
+      internalID: 994208702318278738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738a2e135c2743a0800000000000000
+      internalID: -6681322786680831110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 121
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac43e278ac35770800000000000000
+      internalID: 8598438795525016115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_156
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 123
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afddad5bf4fec3130800000000000000
+      internalID: 3547973732093582842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_157
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 123
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c22034393cc7e0800000000000000
+      internalID: -1743956059390556202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_158
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0012f5d00b112b0800000000000000
+      internalID: -5615513688877235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 121
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba219f2dcd63090800000000000000
+      internalID: -8055008084825560131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_160
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53d25a179bbbae0800000000000000
+      internalID: -1532427350435875367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_161
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 121
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1680eb57e09ea580800000000000000
+      internalID: -8813948097364195812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_162
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb462912b7fc6f0800000000000000
+      internalID: -662175236079960137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_163
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 121
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc70baee6830340800000000000000
+      internalID: 4828851585101056963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_164
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 121
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb30cc0ff24a220800000000000000
+      internalID: 2496172804731551179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_165
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 121
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112de7047e67bbad0800000000000000
+      internalID: -2685422017204792815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b286b5dd064740800000000000000
+      internalID: 5135807636603844764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c358ddaa05e458df0800000000000000
+      internalID: -178650501840272068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_169
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea8fbc6f47ea2da0800000000000000
+      internalID: -5968704027813246234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_170
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35fddef5a7c4d420800000000000000
+      internalID: 2653965596187555135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_171
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b206bad74f84e40800000000000000
+      internalID: 5641027353864842045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b575c3a33377c640800000000000000
+      internalID: 5100171768648529335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_173
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad8dbb80accd8a0800000000000000
+      internalID: -6278921641601213839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_174
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e37809434aefd30800000000000000
+      internalID: 4467188426068147845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_176
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005696eccdb54bc70800000000000000
+      internalID: 8985908160424928512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_177
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c132e11709288b270800000000000000
+      internalID: 8266500672923247388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_178
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ec3933f190b4f0800000000000000
+      internalID: -814991058730688342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 97
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa23f070fa9c9f50800000000000000
+      internalID: 6889551887447829166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_180
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 97
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca604914d953ff0800000000000000
+      internalID: -56966515290362665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_181
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 97
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c543a9806fe480800000000000000
+      internalID: -8867762997003173306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_182
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 97
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdd9ef22c096bd90800000000000000
+      internalID: -7082314200291615243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_183
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 97
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb794191d37399a70800000000000000
+      internalID: 8834152879617251260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_185
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 74
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39fd5b592b34870800000000000000
+      internalID: 8665966464062165921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_186
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35a318e9b37ccf0800000000000000
+      internalID: -232151303827336214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_187
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeefe99c1e773e230800000000000000
+      internalID: 3666906333243703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_188
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 74
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b375f24bb5c49c0800000000000000
+      internalID: -3941674744409539756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_189
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60060380e11e128e0800000000000000
+      internalID: -1719846063576162298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_190
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c527e8a1ff49e0800000000000000
+      internalID: -1634822431977389831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_191
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a88214908714e50800000000000000
+      internalID: 6791841694194633355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_192
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 74
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dbd8ccf270ca8f0800000000000000
+      internalID: -528039154432492182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64321fafa95074d20800000000000000
+      internalID: 3262582618246423366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_195
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba161d6fe84d3830800000000000000
+      internalID: 4052475432867863220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_196
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187620391578bb7a0800000000000000
+      internalID: -6360341264302184575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_197
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934434dfce5c0df0800000000000000
+      internalID: -212690835681819747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_198
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e366064c657c259f0800000000000000
+      internalID: -481103034699454914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_199
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b268764cf30a62c0800000000000000
+      internalID: -4437730100771265867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_200
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8ed4e8f09967d0800000000000000
+      internalID: -2924647084334346429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_201
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 75
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865e3f5a5baf72a0800000000000000
+      internalID: -6737478112889645432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_204
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18af7a7770bd5c0800000000000000
+      internalID: -4189746817837399639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_205
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0e435b0b22e0d0800000000000000
+      internalID: -3395103841441673444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_206
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ff507768e2fb90800000000000000
+      internalID: -7209444522502131525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_207
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7371d9c0a66fe40800000000000000
+      internalID: 5689851781636896720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_208
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 49
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a437987cc150c60800000000000000
+      internalID: 7783659174309874335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_209
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fce35813bc1a30800000000000000
+      internalID: 4187418670616343816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_210
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010b78f098424050800000000000000
+      internalID: 5783264658978439435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_211
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678deee91242aa5a0800000000000000
+      internalID: -6509350584591656842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a4655a17e431b0800000000000000
+      internalID: -5677659129919528296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_214
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5ec67145a80d50800000000000000
+      internalID: 6703789745925675625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_215
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 50
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fba29aafd8c99c0800000000000000
+      internalID: -3919101467999682748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_216
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba066b821256c70800000000000000
+      internalID: 8963607092093037321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_217
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 50
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f0c0206b741e10800000000000000
+      internalID: 2167492973468644910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_218
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21fe6cba0244340800000000000000
+      internalID: 4847035021106549426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_219
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 49
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c120a0d88dbd90800000000000000
+      internalID: -7080352609535409855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_220
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eab869325e07ed0800000000000000
+      internalID: -2418181058885603687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_221
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccbb262cf0a8d00800000000000000
+      internalID: 975609596833680445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_222
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473aa22b97d964130800000000000000
+      internalID: 3550698502233957236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_223
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594e3591800c0aa0800000000000000
+      internalID: -6193574830986606241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_224
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f7d36b6d8f0620800000000000000
+      internalID: 2742566190468036191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_225
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 26
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd0b34c2a1a2190800000000000000
+      internalID: -7986542211771605963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_226
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b9dd03b1352270800000000000000
+      internalID: 8225034939563357864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_227
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7cf7a8d292f4b0800000000000000
+      internalID: -5408098743289610321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_228
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 26
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728135bdcd54f7e70800000000000000
+      internalID: 9115080985695950887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_229
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb676901b750250800000000000000
+      internalID: 5910265397167701206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5dd0a6b79706c90800000000000000
+      internalID: -7178604235061340695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a55fc061397e00800000000000000
+      internalID: 1042919080578098581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_232
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 25
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd53dc179b1d0cf00800000000000000
+      internalID: 1135137700505794011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_233
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 25
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e69c09556211db0800000000000000
+      internalID: -4823031576993894788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_234
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 25
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7155cdded69d40d0800000000000000
+      internalID: -3436925056666218118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_235
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 25
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e85c6a0996df610800000000000000
+      internalID: 1656596307936382468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_236
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 27
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d5deb63fa97260800000000000000
+      internalID: 7095895337563707520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_242
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 41
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff963c5eca65ec90800000000000000
+      internalID: -7141184199583162376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_247
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac418cf75fb235df0800000000000000
+      internalID: -192762025635998518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_248
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961c5c3f071328a0800000000000000
+      internalID: -6331191296948169071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_249
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ac6811117b61c0800000000000000
+      internalID: -4509386283643263858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_250
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b17a5d946fa3ab0800000000000000
+      internalID: -5027435237028193429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_251
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649cf3ef2b2a881b0800000000000000
+      internalID: -5654090442510186170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_252
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13126802434be7e70800000000000000
+      internalID: 9114920831821422897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_253
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641770d94913ced90800000000000000
+      internalID: -7067219200891719354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_254
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cefd84c2e0a600800000000000000
+      internalID: 477630894325022779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_256
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b878243007049010800000000000000
+      internalID: 1194587498616486067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_257
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d55ef23a045200800000000000000
+      internalID: 167770300251231614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_258
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f08fb789230f710800000000000000
+      internalID: 1724934287779172106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_259
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5955a1f01bc359020800000000000000
+      internalID: 2347849511903843733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_260
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c404afcfb19a9930800000000000000
+      internalID: 4150790259583747268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_261
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678db769f47133a0800000000000000
+      internalID: -6687435357132322967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_262
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76e147be9d542c0800000000000000
+      internalID: -4447909451669805127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haddock op1_263
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f706df120fde3510800000000000000
+      internalID: 1530906123569596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

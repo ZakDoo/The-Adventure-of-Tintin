@@ -1,0 +1,2172 @@
+fileFormatVersion: 2
+guid: 35c700c4fcbcf514a9c6758d0f30dd01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6865513466765453324
+    second: TintinFourth_0
+  - first:
+      213: -2287252199365905129
+    second: TintinFourth_1
+  - first:
+      213: -7897469893982653256
+    second: TintinFourth_2
+  - first:
+      213: -7924827601872923639
+    second: TintinFourth_3
+  - first:
+      213: 3885270761763947856
+    second: TintinFourth_4
+  - first:
+      213: -5210059848538119808
+    second: TintinFourth_5
+  - first:
+      213: 4000735904735011375
+    second: TintinFourth_6
+  - first:
+      213: -8048596277802702121
+    second: TintinFourth_7
+  - first:
+      213: -3287715775998830514
+    second: TintinFourth_8
+  - first:
+      213: -5681331195419178555
+    second: TintinFourth_9
+  - first:
+      213: 7444182584512683915
+    second: TintinFourth_10
+  - first:
+      213: -5160300090358553381
+    second: TintinFourth_11
+  - first:
+      213: 4074980456503882267
+    second: TintinFourth_12
+  - first:
+      213: 6472843794676844452
+    second: TintinFourth_13
+  - first:
+      213: -1975373592737245099
+    second: TintinFourth_14
+  - first:
+      213: -1063774257273139818
+    second: TintinFourth_15
+  - first:
+      213: 3130348218325352968
+    second: TintinFourth_16
+  - first:
+      213: 7703841630445799438
+    second: TintinFourth_17
+  - first:
+      213: 1011429284815578513
+    second: TintinFourth_18
+  - first:
+      213: 7083934185938516082
+    second: TintinFourth_19
+  - first:
+      213: 8845492581617950745
+    second: TintinFourth_20
+  - first:
+      213: -1317953898053338608
+    second: TintinFourth_21
+  - first:
+      213: 5014842604629056676
+    second: TintinFourth_22
+  - first:
+      213: 3345758094134137805
+    second: TintinFourth_23
+  - first:
+      213: -7410140454956357240
+    second: TintinFourth_24
+  - first:
+      213: 12264623909943711
+    second: TintinFourth_25
+  - first:
+      213: 5168086499419828947
+    second: TintinFourth_26
+  - first:
+      213: 3420125753670730870
+    second: TintinFourth_27
+  - first:
+      213: 8077975409501685635
+    second: TintinFourth_28
+  - first:
+      213: 2654850242162526223
+    second: TintinFourth_29
+  - first:
+      213: 1667706224642135089
+    second: TintinFourth_30
+  - first:
+      213: -7282353311379373549
+    second: TintinFourth_31
+  - first:
+      213: -1439860868966949583
+    second: TintinFourth_32
+  - first:
+      213: 5247898034758933826
+    second: TintinFourth_33
+  - first:
+      213: -8690982020318792703
+    second: TintinFourth_34
+  - first:
+      213: 7410985351958974581
+    second: TintinFourth_35
+  - first:
+      213: -9059767482159987485
+    second: TintinFourth_36
+  - first:
+      213: 7698724987238606128
+    second: TintinFourth_37
+  - first:
+      213: 8158215323275464907
+    second: TintinFourth_38
+  - first:
+      213: -8343017130762879321
+    second: TintinFourth_39
+  - first:
+      213: -3202819144537707215
+    second: TintinFourth_40
+  - first:
+      213: -2488595684786012443
+    second: TintinFourth_41
+  - first:
+      213: -2904153593181112448
+    second: TintinFourth_42
+  - first:
+      213: 7019899171019039472
+    second: TintinFourth_43
+  - first:
+      213: 8837659124672151686
+    second: TintinFourth_44
+  - first:
+      213: -4419531548521407542
+    second: TintinFourth_45
+  - first:
+      213: -454966381069922465
+    second: TintinFourth_46
+  - first:
+      213: 1041484492435394473
+    second: TintinFourth_47
+  - first:
+      213: -8393943414289631458
+    second: TintinFourth_48
+  - first:
+      213: -3693987487836831918
+    second: TintinFourth_49
+  - first:
+      213: 2235730763390026837
+    second: TintinFourth_50
+  - first:
+      213: 2853740315032996949
+    second: TintinFourth_51
+  - first:
+      213: 2900378705466492124
+    second: TintinFourth_52
+  - first:
+      213: -571083177916141935
+    second: TintinFourth_53
+  - first:
+      213: -2920974502090200906
+    second: TintinFourth_54
+  - first:
+      213: 5310232810368015338
+    second: TintinFourth_55
+  - first:
+      213: -8200532834479584371
+    second: TintinFourth_56
+  - first:
+      213: -898479878806607110
+    second: TintinFourth_57
+  - first:
+      213: -8921215557167954428
+    second: TintinFourth_58
+  - first:
+      213: 8274236893147011586
+    second: TintinFourth_59
+  - first:
+      213: 2523372823624907271
+    second: TintinFourth_60
+  - first:
+      213: -9138274652575942573
+    second: TintinFourth_61
+  - first:
+      213: 9048410633175606555
+    second: TintinFourth_62
+  - first:
+      213: -7002879147589247447
+    second: TintinFourth_63
+  - first:
+      213: -1580927791568336426
+    second: TintinFourth_64
+  - first:
+      213: 1272029229366567551
+    second: TintinFourth_65
+  - first:
+      213: -6447988552761619013
+    second: TintinFourth_66
+  - first:
+      213: -8380906493145869208
+    second: TintinFourth_67
+  - first:
+      213: -8218955526608226509
+    second: TintinFourth_68
+  - first:
+      213: 2956302598199532886
+    second: TintinFourth_69
+  - first:
+      213: -5577736748065772856
+    second: TintinFourth_70
+  - first:
+      213: 2821416076581593664
+    second: TintinFourth_71
+  - first:
+      213: -4371402381487838407
+    second: TintinFourth_72
+  - first:
+      213: 7055854508085195394
+    second: TintinFourth_73
+  - first:
+      213: -7372525119493825783
+    second: TintinFourth_74
+  - first:
+      213: 5460136805536257953
+    second: TintinFourth_75
+  - first:
+      213: 1828732382408747603
+    second: TintinFourth_76
+  - first:
+      213: 1774815960756434359
+    second: TintinFourth_77
+  - first:
+      213: -8455022973211614048
+    second: TintinFourth_78
+  - first:
+      213: 8198108389589733457
+    second: TintinFourth_79
+  - first:
+      213: 6315644781573156812
+    second: TintinFourth_80
+  - first:
+      213: 7768842078022550118
+    second: TintinFourth_81
+  - first:
+      213: -9024526542363539481
+    second: TintinFourth_82
+  - first:
+      213: 3164975551322402850
+    second: TintinFourth_83
+  - first:
+      213: -3546674760457028441
+    second: TintinFourth_84
+  - first:
+      213: 4651935963602754692
+    second: TintinFourth_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TintinFourth_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 642
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d8c480ebc8b0a0800000000000000
+      internalID: -6865513466765453324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71570193e3c0240e0800000000000000
+      internalID: -2287252199365905129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 640
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b472d859fc866290800000000000000
+      internalID: -7897469893982653256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 640
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904572c984b550290800000000000000
+      internalID: -7924827601872923639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 639
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055c62b3c214be530800000000000000
+      internalID: 3885270761763947856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 640
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812c5dfb2622b7b0800000000000000
+      internalID: -5210059848538119808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 640
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22a1e9cb18758730800000000000000
+      internalID: 4000735904735011375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 639
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae9012454ad4090800000000000000
+      internalID: -8048596277802702121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 565
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485429bbefaf52d0800000000000000
+      internalID: -3287715775998830514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 566
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c1b5f06bd721b0800000000000000
+      internalID: -5681331195419178555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 567
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1701ae9c0f4760800000000000000
+      internalID: 7444182584512683915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 567
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd423c3886ee268b0800000000000000
+      internalID: -5160300090358553381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 563
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b290922d3d8830800000000000000
+      internalID: 4074980456503882267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 566
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70e4cf22924d950800000000000000
+      internalID: 6472843794676844452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 568
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589532fe201694e0800000000000000
+      internalID: -1975373592737245099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 568
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d870af2f6bc31f0800000000000000
+      internalID: -1063774257273139818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 569
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024f888e1b317b20800000000000000
+      internalID: 3130348218325352968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 566
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08869c652b89ea60800000000000000
+      internalID: 7703841630445799438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 493
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952cd46391590e00800000000000000
+      internalID: 1011429284815578513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 496
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2787c1d1c903f4260800000000000000
+      internalID: 7083934185938516082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 501
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e0b633a081ca70800000000000000
+      internalID: 8845492581617950745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 498
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a703c99efa5bde0800000000000000
+      internalID: -1317953898053338608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 497
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd86577cc489540800000000000000
+      internalID: 5014842604629056676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 496
+        width: 21
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d04192458e6e20800000000000000
+      internalID: 3345758094134137805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 498
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889239e4484e92990800000000000000
+      internalID: -7410140454956357240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 499
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b4774c929b2000800000000000000
+      internalID: 12264623909943711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 496
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2396e1a4bb8b740800000000000000
+      internalID: 5168086499419828947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 497
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67485ba904ab67f20800000000000000
+      internalID: 3420125753670730870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38740b306dbba1070800000000000000
+      internalID: 8077975409501685635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 426
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0805ffaa3ce7d420800000000000000
+      internalID: 2654850242162526223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 426
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349085b9f1e42710800000000000000
+      internalID: 1667706224642135089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 427
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c7523f32efea90800000000000000
+      internalID: -7282353311379373549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 427
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5d3b1b26940ce0800000000000000
+      internalID: -1439860868966949583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 428
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd643457744d840800000000000000
+      internalID: 5247898034758933826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 427
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104779936ed636780800000000000000
+      internalID: -8690982020318792703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 426
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570532b99eb19d660800000000000000
+      internalID: 7410985351958974581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 424
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e40836c97d354280800000000000000
+      internalID: -9059767482159987485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_37
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 423
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e7c7169d57da60800000000000000
+      internalID: 7698724987238606128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 425
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc09bf8cc9dc73170800000000000000
+      internalID: 8158215323275464907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 426
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae31ed6f16a73c80800000000000000
+      internalID: -8343017130762879321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 425
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d620215fc4d83d0800000000000000
+      internalID: -3202819144537707215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_41
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 425
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee72cae86bb67dd0800000000000000
+      internalID: -2488595684786012443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f341a1bf52b7d0800000000000000
+      internalID: -2904153593181112448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 354
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f226af5a11bb6160800000000000000
+      internalID: 7019899171019039472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c214662ca5aa70800000000000000
+      internalID: 8837659124672151686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbdfb8e87baaa2c0800000000000000
+      internalID: -4419531548521407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 355
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f0597ac72afa9f0800000000000000
+      internalID: -454966381069922465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 353
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af80bab0a8147e00800000000000000
+      internalID: 1041484492435394473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 357
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17798e00f8b28b80800000000000000
+      internalID: -8393943414289631458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 357
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7fbe83f15cbcc0800000000000000
+      internalID: -3693987487836831918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554864da849e60f10800000000000000
+      internalID: 2235730763390026837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 287
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc0ce52b58a9720800000000000000
+      internalID: 2853740315032996949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 289
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40075d017304820800000000000000
+      internalID: 2900378705466492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 213
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6b1b10ea1318f0800000000000000
+      internalID: -571083177916141935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 215
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a0f49a2d9677d0800000000000000
+      internalID: -2920974502090200906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 217
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1c903b9cb1b940800000000000000
+      internalID: 5310232810368015338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bcae7d5dad13e80800000000000000
+      internalID: -8200532834479584371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 147
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa65e18f45f783f0800000000000000
+      internalID: -898479878806607110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406c056a7b9713480800000000000000
+      internalID: -8921215557167954428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 147
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a95739d9ef3d270800000000000000
+      internalID: 8274236893147011586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 149
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a7904b632d40320800000000000000
+      internalID: 2523372823624907271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 150
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583141ce935e2180800000000000000
+      internalID: -9138274652575942573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 152
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ac44c789629d70800000000000000
+      internalID: 9048410633175606555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 152
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed3f2a486c0de90800000000000000
+      internalID: -7002879147589247447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 148
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c608bc8a6f0ae0800000000000000
+      internalID: -1580927791568336426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_65
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 150
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72ee4838d727a110800000000000000
+      internalID: 1272029229366567551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_66
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 151
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcbdcf2942486a0800000000000000
+      internalID: -6447988552761619013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 153
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864964cc2f901bb80800000000000000
+      internalID: -8380906493145869208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33778c39e7760fd80800000000000000
+      internalID: -8218955526608226509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5f36cc85e60920800000000000000
+      internalID: 2956302598199532886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 79
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa5e0daf5e792b0800000000000000
+      internalID: -5577736748065772856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e83029fea72720800000000000000
+      internalID: 2821416076581593664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 79
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bee19d1b8a553c0800000000000000
+      internalID: -4371402381487838407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b145aa4e6be160800000000000000
+      internalID: 7055854508085195394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 80
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b1de217778fa990800000000000000
+      internalID: -7372525119493825783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 79
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7560fde7d46cb40800000000000000
+      internalID: 5460136805536257953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_76
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 81
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2abaa966f06910800000000000000
+      internalID: 1828732382408747603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 82
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b49286b961a810800000000000000
+      internalID: 1774815960756434359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a464f90769b9aa80800000000000000
+      internalID: -8455022973211614048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15055a7152885c170800000000000000
+      internalID: 8198108389589733457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa735977da5a750800000000000000
+      internalID: 6315644781573156812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66244a875b870db60800000000000000
+      internalID: 7768842078022550118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e746587ce072c280800000000000000
+      internalID: -9024526542363539481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203e53ce704ceb20800000000000000
+      internalID: 3164975551322402850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7d11b81ea7cec0800000000000000
+      internalID: -3546674760457028441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TintinFourth_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 10
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c1864ac1ffe8040800000000000000
+      internalID: 4651935963602754692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
