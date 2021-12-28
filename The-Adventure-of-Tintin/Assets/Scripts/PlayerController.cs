@@ -7,11 +7,14 @@ public class PlayerController : MonoBehaviour
 
     public float moveSpeed; //Speed of the player
     public float jumpHeight; //Height of the player jump
+    public float crouchValue;
     public bool isFacingRight; //check if the character is facing right
  
     public KeyCode spacebar;
     public KeyCode Left; //keyboard button to be declared in unity
     public KeyCode Right; //keyboard button to be declared in unity 
+    public KeyCode Crouch;
+
     public Transform groundCheck; //check if the player is touching the ground or not
     public float groundCheckRadius; //the radius of the checking
 
@@ -19,10 +22,13 @@ public class PlayerController : MonoBehaviour
     public Transform firepoint;
     public GameObject bullet;
 
+    public int coinsCollected = 0;
+
     public LayerMask whatIsGround; //stores what is the ground to check on it
     private bool grounded; //check if the player is touching the ground
 
     private Animator anim; //controls the character's animation
+    public bool animation_bool;
 
     public AudioClip jump1;
     public AudioClip jump2;
@@ -75,6 +81,15 @@ public class PlayerController : MonoBehaviour
                 Shoot();
             }
 
+            if(Input.GetKey(Crouch))
+            {
+                animation_bool = true;
+                if (animation_bool == true)
+                {
+                    anim.Play("TintinCrouch");
+                }
+            }
+
             anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x)); //animation for the movement(walk)
             anim.SetBool("Grounded", grounded); //animation for jumping
 
@@ -103,5 +118,4 @@ public class PlayerController : MonoBehaviour
     {
         Instantiate(bullet, firepoint.position, firepoint.rotation);
     }
-
 }

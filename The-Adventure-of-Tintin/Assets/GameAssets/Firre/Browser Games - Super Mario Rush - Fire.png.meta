@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 3af99244be5bcca44becbff3864a46d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5237841223907287982
+    second: Browser Games - Super Mario Rush - Fire_0
+  - first:
+      213: -7296557225555873691
+    second: Browser Games - Super Mario Rush - Fire_1
+  - first:
+      213: 7310669740444122781
+    second: Browser Games - Super Mario Rush - Fire_2
+  - first:
+      213: -5033684600951059001
+    second: Browser Games - Super Mario Rush - Fire_3
+  - first:
+      213: -1810080128145560861
+    second: Browser Games - Super Mario Rush - Fire_4
+  - first:
+      213: -438503635820157419
+    second: Browser Games - Super Mario Rush - Fire_5
+  - first:
+      213: -307161112752908991
+    second: Browser Games - Super Mario Rush - Fire_6
+  - first:
+      213: 1843007457511465374
+    second: Browser Games - Super Mario Rush - Fire_7
+  - first:
+      213: 3546123042600164880
+    second: Browser Games - Super Mario Rush - Fire_8
+  - first:
+      213: -3926850775259924646
+    second: Browser Games - Super Mario Rush - Fire_9
+  - first:
+      213: 6407805530100897220
+    second: Browser Games - Super Mario Rush - Fire_10
+  - first:
+      213: 418544824584361293
+    second: Browser Games - Super Mario Rush - Fire_11
+  - first:
+      213: -1948165243265518632
+    second: Browser Games - Super Mario Rush - Fire_12
+  - first:
+      213: 5397230974546950062
+    second: Browser Games - Super Mario Rush - Fire_13
+  - first:
+      213: -8364507058233017028
+    second: Browser Games - Super Mario Rush - Fire_14
+  - first:
+      213: -7382118050826435878
+    second: Browser Games - Super Mario Rush - Fire_15
+  - first:
+      213: -506618153844806014
+    second: Browser Games - Super Mario Rush - Fire_16
+  - first:
+      213: 44288549879943127
+    second: Browser Games - Super Mario Rush - Fire_17
+  - first:
+      213: -5831517553356874675
+    second: Browser Games - Super Mario Rush - Fire_18
+  - first:
+      213: 5351477434696793085
+    second: Browser Games - Super Mario Rush - Fire_19
+  - first:
+      213: -5254653347438835543
+    second: Browser Games - Super Mario Rush - Fire_20
+  - first:
+      213: -6098923484112509874
+    second: Browser Games - Super Mario Rush - Fire_21
+  - first:
+      213: 4028336962794351719
+    second: Browser Games - Super Mario Rush - Fire_22
+  - first:
+      213: 4807037940801170752
+    second: Browser Games - Super Mario Rush - Fire_23
+  - first:
+      213: -3752435666629871416
+    second: Browser Games - Super Mario Rush - Fire_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 459
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea324e487dc80b840800000000000000
+      internalID: 5237841223907287982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 795
+        width: 461
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560be67bcdb6dba90800000000000000
+      internalID: -7296557225555873691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 453
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7e553567b47560800000000000000
+      internalID: 7310669740444122781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 72
+        width: 446
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd45f86682c42ab0800000000000000
+      internalID: -5033684600951059001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 34
+        width: 53
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7777124, y: -0.1290097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e83a344f1ae9f0800000000000000
+      internalID: -438503635820157419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459c89689ebcbbf0800000000000000
+      internalID: -307161112752908991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91ed57948da39910800000000000000
+      internalID: 1843007457511465374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 29
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e920c7e1c563130800000000000000
+      internalID: 3546123042600164880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 35
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573aa676060189c0800000000000000
+      internalID: -3926850775259924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 34
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5927bfd291de850800000000000000
+      internalID: 6407805530100897220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 34
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45dde7ec48fec500800000000000000
+      internalID: 418544824584361293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 35
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37567780ab6f4e0800000000000000
+      internalID: -1948165243265518632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 35
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73b90c9f0d6ea40800000000000000
+      internalID: 5397230974546950062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_14
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 29
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df5c8c52d4beb80800000000000000
+      internalID: -8364507058233017028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 29
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2cd72beb27d8990800000000000000
+      internalID: -7382118050826435878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 35
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee057297128f8f0800000000000000
+      internalID: -506618153844806014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 36
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df063393385d9000800000000000000
+      internalID: 44288549879943127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 28
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c55b29ea9421fa0800000000000000
+      internalID: -5831517553356874675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_19
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 35
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbfe9e9f54444a40800000000000000
+      internalID: 5351477434696793085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 28
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84710fe98b317b0800000000000000
+      internalID: -5254653347438835543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 34
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44af2997654c5ba0800000000000000
+      internalID: -6098923484112509874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_22
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 34
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ceee6ef1787e730800000000000000
+      internalID: 4028336962794351719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 35
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6743d98706b240800000000000000
+      internalID: 4807037940801170752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Super Mario Rush - Fire_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 329
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8350874abacebc0800000000000000
+      internalID: -3752435666629871416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

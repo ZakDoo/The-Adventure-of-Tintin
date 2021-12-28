@@ -5,7 +5,7 @@ using UnityEngine;
 public class CoinPickup : MonoBehaviour
 {
 
-    int coinValue = 1;
+    public int coinValue = 1;
 
     public AudioClip coinSound;
 
@@ -23,9 +23,9 @@ public class CoinPickup : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.name=="Player")
+        if(other.tag=="Player")
         {
-            FindObjectOfType<PlayerStats>().CollectCoin(coinValue);
+            FindObjectOfType<PlayerStats>().coinsCollected += coinValue;
             AudioManager.instance.PlaySingle(coinSound);
             Destroy(this.gameObject);
         }

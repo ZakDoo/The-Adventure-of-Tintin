@@ -26,6 +26,7 @@ public class PlayerStats : MonoBehaviour
     public Slider healthUI;
     public Gradient gradient;
     public Image fill;
+    public Text livesUI;
 
     // Start is called before the first frame update
     void Start()
@@ -51,6 +52,8 @@ public class PlayerStats : MonoBehaviour
         }
 
         scoreUI.text = "" + coinsCollected;
+
+        livesUI.text = "" + lives;
 
         healthUI.value = health;
 
@@ -106,10 +109,22 @@ public class PlayerStats : MonoBehaviour
         this.isImmune = true;
         this.immunityTime = 0f;
     }
-
     public void CollectCoin(int coinValue)
     {
         this.coinsCollected = this.coinsCollected + coinValue;
+    }
+
+    public void heal(int healValue)
+    {
+        if (health < 100)
+        {
+            this.health = this.health + healValue;
+            if(health>100)
+            {
+                health = 100;
+            }
+            Debug.Log("Player Health: " + this.health.ToString());
+        }
     }
 
 }

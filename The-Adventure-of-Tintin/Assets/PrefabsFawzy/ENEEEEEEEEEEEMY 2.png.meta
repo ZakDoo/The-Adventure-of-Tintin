@@ -1,0 +1,4452 @@
+fileFormatVersion: 2
+guid: f7f3483d2041c8b439cec007a77f3932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4776287692603393455
+    second: ENEEEEEEEEEEEMY 2_0
+  - first:
+      213: -3601116792967990943
+    second: ENEEEEEEEEEEEMY 2_1
+  - first:
+      213: 568299883683430436
+    second: ENEEEEEEEEEEEMY 2_2
+  - first:
+      213: -4972336914709439403
+    second: ENEEEEEEEEEEEMY 2_3
+  - first:
+      213: -817162869483705816
+    second: ENEEEEEEEEEEEMY 2_4
+  - first:
+      213: 1439975302116267103
+    second: ENEEEEEEEEEEEMY 2_5
+  - first:
+      213: -4013856441310981511
+    second: ENEEEEEEEEEEEMY 2_6
+  - first:
+      213: -7313741886991506486
+    second: ENEEEEEEEEEEEMY 2_7
+  - first:
+      213: 4358429538135312207
+    second: ENEEEEEEEEEEEMY 2_8
+  - first:
+      213: 3075562674922866780
+    second: ENEEEEEEEEEEEMY 2_9
+  - first:
+      213: 3593220950626219167
+    second: ENEEEEEEEEEEEMY 2_10
+  - first:
+      213: 3953079976330441898
+    second: ENEEEEEEEEEEEMY 2_11
+  - first:
+      213: -297849165955279149
+    second: ENEEEEEEEEEEEMY 2_12
+  - first:
+      213: -5930292502798000633
+    second: ENEEEEEEEEEEEMY 2_13
+  - first:
+      213: 7112129202786594506
+    second: ENEEEEEEEEEEEMY 2_14
+  - first:
+      213: 2056352188873805327
+    second: ENEEEEEEEEEEEMY 2_15
+  - first:
+      213: -5931877868992906975
+    second: ENEEEEEEEEEEEMY 2_16
+  - first:
+      213: 9184419054833900639
+    second: ENEEEEEEEEEEEMY 2_17
+  - first:
+      213: -216002955619710244
+    second: ENEEEEEEEEEEEMY 2_18
+  - first:
+      213: -1699092955504515140
+    second: ENEEEEEEEEEEEMY 2_19
+  - first:
+      213: 2094784241199127394
+    second: ENEEEEEEEEEEEMY 2_20
+  - first:
+      213: -8369413571308283976
+    second: ENEEEEEEEEEEEMY 2_21
+  - first:
+      213: 8181313687437652542
+    second: ENEEEEEEEEEEEMY 2_22
+  - first:
+      213: 1269913744438222116
+    second: ENEEEEEEEEEEEMY 2_23
+  - first:
+      213: 3772059063684134601
+    second: ENEEEEEEEEEEEMY 2_24
+  - first:
+      213: 711119226969777422
+    second: ENEEEEEEEEEEEMY 2_25
+  - first:
+      213: -3420809618217426158
+    second: ENEEEEEEEEEEEMY 2_26
+  - first:
+      213: -3814802556466081083
+    second: ENEEEEEEEEEEEMY 2_27
+  - first:
+      213: -5454988177958467445
+    second: ENEEEEEEEEEEEMY 2_28
+  - first:
+      213: 2065029543135561609
+    second: ENEEEEEEEEEEEMY 2_29
+  - first:
+      213: -6207595653724901421
+    second: ENEEEEEEEEEEEMY 2_30
+  - first:
+      213: -2628701578271726732
+    second: ENEEEEEEEEEEEMY 2_31
+  - first:
+      213: 1530997964024287948
+    second: ENEEEEEEEEEEEMY 2_32
+  - first:
+      213: -6814658559474867191
+    second: ENEEEEEEEEEEEMY 2_33
+  - first:
+      213: 5713819489803860627
+    second: ENEEEEEEEEEEEMY 2_34
+  - first:
+      213: -5587452815963511277
+    second: ENEEEEEEEEEEEMY 2_35
+  - first:
+      213: 4448965747405840568
+    second: ENEEEEEEEEEEEMY 2_36
+  - first:
+      213: -83984210739931546
+    second: ENEEEEEEEEEEEMY 2_37
+  - first:
+      213: -2923309907386506731
+    second: ENEEEEEEEEEEEMY 2_38
+  - first:
+      213: 4719353602429215488
+    second: ENEEEEEEEEEEEMY 2_39
+  - first:
+      213: -4692624542892868162
+    second: ENEEEEEEEEEEEMY 2_40
+  - first:
+      213: -5836550946205976400
+    second: ENEEEEEEEEEEEMY 2_41
+  - first:
+      213: -7128837113882228959
+    second: ENEEEEEEEEEEEMY 2_42
+  - first:
+      213: -2919670360489919039
+    second: ENEEEEEEEEEEEMY 2_43
+  - first:
+      213: 1621113059251301791
+    second: ENEEEEEEEEEEEMY 2_44
+  - first:
+      213: -4434723614657021200
+    second: ENEEEEEEEEEEEMY 2_45
+  - first:
+      213: 8726739803546045509
+    second: ENEEEEEEEEEEEMY 2_46
+  - first:
+      213: 5177188128900507393
+    second: ENEEEEEEEEEEEMY 2_47
+  - first:
+      213: -8914320460814242441
+    second: ENEEEEEEEEEEEMY 2_48
+  - first:
+      213: 1961417613591018912
+    second: ENEEEEEEEEEEEMY 2_49
+  - first:
+      213: 1014115815680098151
+    second: ENEEEEEEEEEEEMY 2_50
+  - first:
+      213: 617043147742372533
+    second: ENEEEEEEEEEEEMY 2_51
+  - first:
+      213: -4145922183093942493
+    second: ENEEEEEEEEEEEMY 2_52
+  - first:
+      213: -6847217112101745891
+    second: ENEEEEEEEEEEEMY 2_53
+  - first:
+      213: 6048588791922143431
+    second: ENEEEEEEEEEEEMY 2_54
+  - first:
+      213: 5357726913361995970
+    second: ENEEEEEEEEEEEMY 2_55
+  - first:
+      213: -3118825968872187282
+    second: ENEEEEEEEEEEEMY 2_56
+  - first:
+      213: -5061927417734079841
+    second: ENEEEEEEEEEEEMY 2_57
+  - first:
+      213: -231056290233529733
+    second: ENEEEEEEEEEEEMY 2_58
+  - first:
+      213: -6538257590078800788
+    second: ENEEEEEEEEEEEMY 2_59
+  - first:
+      213: -6448671045776163674
+    second: ENEEEEEEEEEEEMY 2_60
+  - first:
+      213: -1067438671190527552
+    second: ENEEEEEEEEEEEMY 2_61
+  - first:
+      213: -8211256863215883848
+    second: ENEEEEEEEEEEEMY 2_62
+  - first:
+      213: 5015383156059543636
+    second: ENEEEEEEEEEEEMY 2_63
+  - first:
+      213: 3592797956312405135
+    second: ENEEEEEEEEEEEMY 2_64
+  - first:
+      213: 7723164404578298711
+    second: ENEEEEEEEEEEEMY 2_65
+  - first:
+      213: 5765904707937067095
+    second: ENEEEEEEEEEEEMY 2_66
+  - first:
+      213: -4150093059074402135
+    second: ENEEEEEEEEEEEMY 2_67
+  - first:
+      213: 6544555611030455298
+    second: ENEEEEEEEEEEEMY 2_68
+  - first:
+      213: 796885924215430736
+    second: ENEEEEEEEEEEEMY 2_69
+  - first:
+      213: -7678499401901208517
+    second: ENEEEEEEEEEEEMY 2_70
+  - first:
+      213: -5821137403398013049
+    second: ENEEEEEEEEEEEMY 2_71
+  - first:
+      213: 5835134521842143817
+    second: ENEEEEEEEEEEEMY 2_72
+  - first:
+      213: -1216468993879820884
+    second: ENEEEEEEEEEEEMY 2_73
+  - first:
+      213: 7336765144500970628
+    second: ENEEEEEEEEEEEMY 2_74
+  - first:
+      213: 5405083020633752135
+    second: ENEEEEEEEEEEEMY 2_75
+  - first:
+      213: 6656000669606954632
+    second: ENEEEEEEEEEEEMY 2_76
+  - first:
+      213: 1051717468005425351
+    second: ENEEEEEEEEEEEMY 2_77
+  - first:
+      213: -5661290864087398543
+    second: ENEEEEEEEEEEEMY 2_78
+  - first:
+      213: -643776808210700926
+    second: ENEEEEEEEEEEEMY 2_79
+  - first:
+      213: -8563172071215046670
+    second: ENEEEEEEEEEEEMY 2_80
+  - first:
+      213: -8948539322662493214
+    second: ENEEEEEEEEEEEMY 2_81
+  - first:
+      213: -2442436789939960519
+    second: ENEEEEEEEEEEEMY 2_82
+  - first:
+      213: 1584203425945512799
+    second: ENEEEEEEEEEEEMY 2_83
+  - first:
+      213: -437865965127841390
+    second: ENEEEEEEEEEEEMY 2_84
+  - first:
+      213: 1937310828434748343
+    second: ENEEEEEEEEEEEMY 2_85
+  - first:
+      213: -5141878799656928249
+    second: ENEEEEEEEEEEEMY 2_86
+  - first:
+      213: 2461135687698554771
+    second: ENEEEEEEEEEEEMY 2_87
+  - first:
+      213: 8856823715536284525
+    second: ENEEEEEEEEEEEMY 2_88
+  - first:
+      213: 4104400870398028920
+    second: ENEEEEEEEEEEEMY 2_89
+  - first:
+      213: -4730695366691837344
+    second: ENEEEEEEEEEEEMY 2_90
+  - first:
+      213: -4490624730976992131
+    second: ENEEEEEEEEEEEMY 2_91
+  - first:
+      213: -1687153880014883844
+    second: ENEEEEEEEEEEEMY 2_92
+  - first:
+      213: 2278446725075082260
+    second: ENEEEEEEEEEEEMY 2_93
+  - first:
+      213: 5299070942864601173
+    second: ENEEEEEEEEEEEMY 2_94
+  - first:
+      213: 7461607914945510162
+    second: ENEEEEEEEEEEEMY 2_95
+  - first:
+      213: -6524441964389642249
+    second: ENEEEEEEEEEEEMY 2_96
+  - first:
+      213: 4110522595442878416
+    second: ENEEEEEEEEEEEMY 2_97
+  - first:
+      213: 2620026405598670391
+    second: ENEEEEEEEEEEEMY 2_98
+  - first:
+      213: -2537121717197701336
+    second: ENEEEEEEEEEEEMY 2_99
+  - first:
+      213: -1946749921249867996
+    second: ENEEEEEEEEEEEMY 2_100
+  - first:
+      213: 3527009836202689138
+    second: ENEEEEEEEEEEEMY 2_101
+  - first:
+      213: 2801212319430138508
+    second: ENEEEEEEEEEEEMY 2_102
+  - first:
+      213: -2099450107781661636
+    second: ENEEEEEEEEEEEMY 2_103
+  - first:
+      213: 7561536036539720935
+    second: ENEEEEEEEEEEEMY 2_104
+  - first:
+      213: -4302221903565508618
+    second: ENEEEEEEEEEEEMY 2_105
+  - first:
+      213: 5028987781810022415
+    second: ENEEEEEEEEEEEMY 2_106
+  - first:
+      213: -3816808990907783686
+    second: ENEEEEEEEEEEEMY 2_107
+  - first:
+      213: 4660867857632674918
+    second: ENEEEEEEEEEEEMY 2_108
+  - first:
+      213: -6735548143598684285
+    second: ENEEEEEEEEEEEMY 2_109
+  - first:
+      213: 8044914990816927695
+    second: ENEEEEEEEEEEEMY 2_110
+  - first:
+      213: 5130111970469376340
+    second: ENEEEEEEEEEEEMY 2_111
+  - first:
+      213: 1012507026261397265
+    second: ENEEEEEEEEEEEMY 2_112
+  - first:
+      213: -736303428141781187
+    second: ENEEEEEEEEEEEMY 2_113
+  - first:
+      213: -1831487400100300970
+    second: ENEEEEEEEEEEEMY 2_114
+  - first:
+      213: 554662996978836176
+    second: ENEEEEEEEEEEEMY 2_115
+  - first:
+      213: 5300837645904987759
+    second: ENEEEEEEEEEEEMY 2_116
+  - first:
+      213: 3023222260838477974
+    second: ENEEEEEEEEEEEMY 2_117
+  - first:
+      213: 5885916276877764426
+    second: ENEEEEEEEEEEEMY 2_118
+  - first:
+      213: 1234967779792341045
+    second: ENEEEEEEEEEEEMY 2_119
+  - first:
+      213: -789920249653440196
+    second: ENEEEEEEEEEEEMY 2_120
+  - first:
+      213: 5037096896007193299
+    second: ENEEEEEEEEEEEMY 2_121
+  - first:
+      213: 3386440872844718010
+    second: ENEEEEEEEEEEEMY 2_122
+  - first:
+      213: -8226283064871054689
+    second: ENEEEEEEEEEEEMY 2_123
+  - first:
+      213: 8617543501101525616
+    second: ENEEEEEEEEEEEMY 2_124
+  - first:
+      213: -8003686349628532687
+    second: ENEEEEEEEEEEEMY 2_125
+  - first:
+      213: 5265514361092945749
+    second: ENEEEEEEEEEEEMY 2_126
+  - first:
+      213: 4444694409888668608
+    second: ENEEEEEEEEEEEMY 2_127
+  - first:
+      213: -4614708767893577876
+    second: ENEEEEEEEEEEEMY 2_128
+  - first:
+      213: 6608388488585777666
+    second: ENEEEEEEEEEEEMY 2_129
+  - first:
+      213: 4777165396363246824
+    second: ENEEEEEEEEEEEMY 2_130
+  - first:
+      213: -8322232440468784518
+    second: ENEEEEEEEEEEEMY 2_131
+  - first:
+      213: 4114304715762805410
+    second: ENEEEEEEEEEEEMY 2_132
+  - first:
+      213: 8755553486421928475
+    second: ENEEEEEEEEEEEMY 2_133
+  - first:
+      213: -3040569427907531041
+    second: ENEEEEEEEEEEEMY 2_134
+  - first:
+      213: -6268592720562478797
+    second: ENEEEEEEEEEEEMY 2_135
+  - first:
+      213: 4675803948377958569
+    second: ENEEEEEEEEEEEMY 2_136
+  - first:
+      213: -2581899987003415629
+    second: ENEEEEEEEEEEEMY 2_137
+  - first:
+      213: 5103379816541670697
+    second: ENEEEEEEEEEEEMY 2_138
+  - first:
+      213: -7423334485209212501
+    second: ENEEEEEEEEEEEMY 2_139
+  - first:
+      213: 8745537301771490470
+    second: ENEEEEEEEEEEEMY 2_140
+  - first:
+      213: 6949608226241545644
+    second: ENEEEEEEEEEEEMY 2_141
+  - first:
+      213: 730325075225239066
+    second: ENEEEEEEEEEEEMY 2_142
+  - first:
+      213: 8389806179813553437
+    second: ENEEEEEEEEEEEMY 2_143
+  - first:
+      213: -2740853045706565922
+    second: ENEEEEEEEEEEEMY 2_144
+  - first:
+      213: -4165638924803933651
+    second: ENEEEEEEEEEEEMY 2_145
+  - first:
+      213: -4179612965220485307
+    second: ENEEEEEEEEEEEMY 2_146
+  - first:
+      213: -850557999238224778
+    second: ENEEEEEEEEEEEMY 2_147
+  - first:
+      213: 307752844964031491
+    second: ENEEEEEEEEEEEMY 2_148
+  - first:
+      213: -3952848179808705539
+    second: ENEEEEEEEEEEEMY 2_149
+  - first:
+      213: -6607474509677159199
+    second: ENEEEEEEEEEEEMY 2_150
+  - first:
+      213: -977685891649905407
+    second: ENEEEEEEEEEEEMY 2_151
+  - first:
+      213: 8420800927042417194
+    second: ENEEEEEEEEEEEMY 2_152
+  - first:
+      213: -575198033769137222
+    second: ENEEEEEEEEEEEMY 2_153
+  - first:
+      213: 8731889966448247513
+    second: ENEEEEEEEEEEEMY 2_154
+  - first:
+      213: 3598865605976969552
+    second: ENEEEEEEEEEEEMY 2_155
+  - first:
+      213: 1720935440199361967
+    second: ENEEEEEEEEEEEMY 2_156
+  - first:
+      213: -254450055001417003
+    second: ENEEEEEEEEEEEMY 2_157
+  - first:
+      213: -1330393704023986982
+    second: ENEEEEEEEEEEEMY 2_158
+  - first:
+      213: 1404876678480968027
+    second: ENEEEEEEEEEEEMY 2_159
+  - first:
+      213: -1295317883238949512
+    second: ENEEEEEEEEEEEMY 2_160
+  - first:
+      213: 775022530436044367
+    second: ENEEEEEEEEEEEMY 2_161
+  - first:
+      213: -3599083497853007276
+    second: ENEEEEEEEEEEEMY 2_162
+  - first:
+      213: -5774817198743073276
+    second: ENEEEEEEEEEEEMY 2_163
+  - first:
+      213: 3524626955438405513
+    second: ENEEEEEEEEEEEMY 2_164
+  - first:
+      213: 2541101695866746458
+    second: ENEEEEEEEEEEEMY 2_165
+  - first:
+      213: 9160589453550323556
+    second: ENEEEEEEEEEEEMY 2_166
+  - first:
+      213: 3410012942031463873
+    second: ENEEEEEEEEEEEMY 2_167
+  - first:
+      213: -367028332460085849
+    second: ENEEEEEEEEEEEMY 2_168
+  - first:
+      213: -7361933122423177558
+    second: ENEEEEEEEEEEEMY 2_169
+  - first:
+      213: 3497373590022645346
+    second: ENEEEEEEEEEEEMY 2_170
+  - first:
+      213: 8635340497844161743
+    second: ENEEEEEEEEEEEMY 2_171
+  - first:
+      213: -5809883212262706411
+    second: ENEEEEEEEEEEEMY 2_172
+  - first:
+      213: 4085689247555635079
+    second: ENEEEEEEEEEEEMY 2_173
+  - first:
+      213: -7613882226107571042
+    second: ENEEEEEEEEEEEMY 2_174
+  - first:
+      213: 6152149804978502133
+    second: ENEEEEEEEEEEEMY 2_175
+  - first:
+      213: -8311453693863405548
+    second: ENEEEEEEEEEEEMY 2_176
+  - first:
+      213: -4074947530663806498
+    second: ENEEEEEEEEEEEMY 2_177
+  - first:
+      213: -141114753984056830
+    second: ENEEEEEEEEEEEMY 2_178
+  - first:
+      213: 3952747961698273351
+    second: ENEEEEEEEEEEEMY 2_179
+  - first:
+      213: 2057277616719322399
+    second: ENEEEEEEEEEEEMY 2_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15afd4146a737bdb0800000000000000
+      internalID: -4776287692603393455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f2783b53460ec0800000000000000
+      internalID: -3601116792967990943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c8d4bbb103e700800000000000000
+      internalID: 568299883683430436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1282
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9e2fabe5befab0800000000000000
+      internalID: -4972336914709439403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1282
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae8c023bad8a4f0800000000000000
+      internalID: -817162869483705816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1282
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d9ff68e1dbf310800000000000000
+      internalID: 1439975302116267103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1282
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972de3c35daeb48c0800000000000000
+      internalID: -4013856441310981511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1218
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e9fee08e508a90800000000000000
+      internalID: -7313741886991506486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47002fa2904c7c30800000000000000
+      internalID: 4358429538135312207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1218
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c584a3335f79eaa20800000000000000
+      internalID: 3075562674922866780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943199ba6fadd130800000000000000
+      internalID: 3593220950626219167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b2ed4b492cd630800000000000000
+      internalID: 3953079976330441898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d69af2c3dddbf0800000000000000
+      internalID: -297849165955279149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1094836e53bda0800000000000000
+      internalID: -5930292502798000633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1226
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee6c804db53b260800000000000000
+      internalID: 7112129202786594506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1229
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8be6bb61a98c10800000000000000
+      internalID: 2056352188873805327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1293dafa18cbdada0800000000000000
+      internalID: -5931877868992906975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c14bf187c957f70800000000000000
+      internalID: 9184419054833900639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda4adfc47a900df0800000000000000
+      internalID: -216002955619710244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e8ca85fb9b68e0800000000000000
+      internalID: -1699092955504515140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1154
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b92c13b2b221d10800000000000000
+      internalID: 2094784241199127394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1154
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b716df23bed9db80800000000000000
+      internalID: -8369413571308283976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1154
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3233c7c37dd98170800000000000000
+      internalID: 8181313687437652542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1154
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d50a082d3af9110800000000000000
+      internalID: 1269913744438222116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67fa2bbbb095430800000000000000
+      internalID: 3772059063684134601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05eb745b276ed900800000000000000
+      internalID: 711119226969777422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1090
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21329e5c6c7d680d0800000000000000
+      internalID: -3420809618217426158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2569d59491f0bc0800000000000000
+      internalID: -3814802556466081083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1090
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8884d6672dfb44b0800000000000000
+      internalID: -5454988177958467445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1090
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874841bd6578ac10800000000000000
+      internalID: 2065029543135561609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfe77664a03ad9a0800000000000000
+      internalID: -6207595653724901421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ea9e87d9f48bd0800000000000000
+      internalID: -2628701578271726732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2938569823f3510800000000000000
+      internalID: 1530997964024287948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ece055287d61a0800000000000000
+      internalID: -6814658559474867191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a76788d809b4f40800000000000000
+      internalID: 5713819489803860627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162d3974416572b0800000000000000
+      internalID: -5587452815963511277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0610096c6edbd30800000000000000
+      internalID: 4448965747405840568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666da182ec0a5def0800000000000000
+      internalID: -83984210739931546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e8d9a0215e67d0800000000000000
+      internalID: -2923309907386506731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_39
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 962
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e042e8138e7140800000000000000
+      internalID: 4719353602429215488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd379047d270eeb0800000000000000
+      internalID: -4692624542892868162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b83ce976d7600fa0800000000000000
+      internalID: -5836550946205976400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127cd654a68411d90800000000000000
+      internalID: -7128837113882228959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf2c5b64f3b77d0800000000000000
+      internalID: -2919670360489919039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dab650db95f7610800000000000000
+      internalID: 1621113059251301791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf45f5e52b472c0800000000000000
+      internalID: -4434723614657021200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 962
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ccf957d9b9b1970800000000000000
+      internalID: 8726739803546045509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107eb7e5c2119d740800000000000000
+      internalID: 5177188128900507393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dab2f55c8f94480800000000000000
+      internalID: -8914320460814242441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 899
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad79427dea583b10800000000000000
+      internalID: 1961417613591018912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb7ba16fcd21e00800000000000000
+      internalID: 1014115815680098151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e540497d209800800000000000000
+      internalID: 617043147742372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32706429db9b676c0800000000000000
+      internalID: -4145922183093942493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 899
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b033d805cc9f0a0800000000000000
+      internalID: -6847217112101745891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_54
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0bdee9577e0f350800000000000000
+      internalID: 6048588791922143431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 834
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ed72cd387a5a40800000000000000
+      internalID: 5357726913361995970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1c193e44b7b4d0800000000000000
+      internalID: -3118825968872187282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a562335db60c9b0800000000000000
+      internalID: -5061927417734079841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac289378f1bccf0800000000000000
+      internalID: -231056290233529733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf95dec517345a0800000000000000
+      internalID: -6538257590078800788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3a23b9d7b186a0800000000000000
+      internalID: -6448671045776163674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_61
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17c202f22bf21f0800000000000000
+      internalID: -1067438671190527552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_62
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b967845361cb0e80800000000000000
+      internalID: -8211256863215883848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458186568683a9540800000000000000
+      internalID: 5015383156059543636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8410cfa4be2cd130800000000000000
+      internalID: 3592797956312405135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba4dc5b113e2b60800000000000000
+      internalID: 7723164404578298711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750675568cb940050800000000000000
+      internalID: 5765904707937067095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85e05d958e766c0800000000000000
+      internalID: -4150093059074402135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204824857aee2da50800000000000000
+      internalID: 6544555611030455298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_69
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e9e57a68b1f0b00800000000000000
+      internalID: 796885924215430736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_70
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c01a5f97d707590800000000000000
+      internalID: -7678499401901208517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fb8b19f5a273fa0800000000000000
+      internalID: -5821137403398013049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 706
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94215078eef8af050800000000000000
+      internalID: 5835134521842143817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_73
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 706
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5348b25eb3e1fe0800000000000000
+      internalID: -1216468993879820884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 707
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a27ee60d61d560800000000000000
+      internalID: 7336765144500970628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 707
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ce52be56b20b40800000000000000
+      internalID: 5405083020633752135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 706
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864fa0185dde5c50800000000000000
+      internalID: 6656000669606954632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_77
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 706
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c069840773789e00800000000000000
+      internalID: 1051717468005425351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 706
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17708e334fd0f61b0800000000000000
+      internalID: -5661290864087398543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 706
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28567ff5768d017f0800000000000000
+      internalID: -643776808210700926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_80
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 706
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5ea0fe50892980800000000000000
+      internalID: -8563172071215046670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3661eb5e660d380800000000000000
+      internalID: -8948539322662493214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935884d1ea8ba1ed0800000000000000
+      internalID: -2442436789939960519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b60775f983cf510800000000000000
+      internalID: 1584203425945512799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299425189336ce9f0800000000000000
+      internalID: -437865965127841390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3fe542fe5b2ea10800000000000000
+      internalID: 1937310828434748343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_86
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c365c797064a8b0800000000000000
+      internalID: -5141878799656928249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f1f494ed5b72220800000000000000
+      internalID: 2461135687698554771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_88
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6babca6e32c9ea70800000000000000
+      internalID: 8856823715536284525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_89
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce0e778d2c5f830800000000000000
+      internalID: 4104400870398028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 578
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2fb7d0a1395eb0800000000000000
+      internalID: -4730695366691837344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74488a79981ea1c0800000000000000
+      internalID: -4490624730976992131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 579
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37a4c2c760698e0800000000000000
+      internalID: -1687153880014883844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c90c7893bae9f10800000000000000
+      internalID: 2278446725075082260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_94
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f90562f41a8940800000000000000
+      internalID: 5299070942864601173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf1978dd4fc8760800000000000000
+      internalID: 7461607914945510162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_96
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff47e2f9968475a0800000000000000
+      internalID: -6524441964389642249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_97
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e696a5828b0930800000000000000
+      internalID: 4110522595442878416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_98
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e2ad762243c5420800000000000000
+      internalID: 2620026405598670391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f708e8d355accd0800000000000000
+      internalID: -2537121717197701336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_100
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c16dc241cbf4e0800000000000000
+      internalID: -1946749921249867996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_101
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 513
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728b2652c472f030800000000000000
+      internalID: 3527009836202689138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad41853c7efd620800000000000000
+      internalID: 2801212319430138508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_103
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb40610414dd2e0800000000000000
+      internalID: -2099450107781661636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e34666f8ffe860800000000000000
+      internalID: 7561536036539720935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 450
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa21d09ff6b44c0800000000000000
+      internalID: -4302221903565508618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 450
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e09a2ebd8ac540800000000000000
+      internalID: 5028987781810022415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_107
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ac61f178f70bc0800000000000000
+      internalID: -3816808990907783686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 450
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644b374f9abea040800000000000000
+      internalID: 4660867857632674918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 450
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387324d56a68682a0800000000000000
+      internalID: -6735548143598684285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_110
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 450
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf9bd37f8745af60800000000000000
+      internalID: 8044914990816927695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4517ec918a1d13740800000000000000
+      internalID: 5130111970469376340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc5e0a6c52d0e00800000000000000
+      internalID: 1012507026261397265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_113
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe4b6eeef18c5f0800000000000000
+      internalID: -736303428141781187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657fa6ac9ef3596e0800000000000000
+      internalID: -1831487400100300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_115
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 386
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22af89e0f82b700800000000000000
+      internalID: 554662996978836176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 386
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664f2001cb509940800000000000000
+      internalID: 5300837645904987759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_117
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b456e0a4a4f920800000000000000
+      internalID: 3023222260838477974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_118
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472dfc3ba9fea150800000000000000
+      internalID: 5885916276877764426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538439f07ac732110800000000000000
+      internalID: 1234967779792341045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d486d7b3a905f0800000000000000
+      internalID: -789920249653440196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_121
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 322
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24bb170fc57e540800000000000000
+      internalID: 5037096896007193299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_122
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 322
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe5ce180e0ffe20800000000000000
+      internalID: 3386440872844718010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f929c80232f56dd80800000000000000
+      internalID: -8226283064871054689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_124
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae1a3182aa79770800000000000000
+      internalID: 8617543501101525616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_125
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1389fbc9ba13de090800000000000000
+      internalID: -8003686349628532687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_126
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557b9acd96dd21940800000000000000
+      internalID: 5265514361092945749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_127
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb149c440abead30800000000000000
+      internalID: 4444694409888668608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_128
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f92db43d245ffb0800000000000000
+      internalID: -4614708767893577876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029fef4156b5bb50800000000000000
+      internalID: 6608388488585777666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_130
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf4831e96eb4240800000000000000
+      internalID: 4777165396363246824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_131
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a30af30bd718c80800000000000000
+      internalID: -8322232440468784518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_132
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa1c82752f81930800000000000000
+      internalID: 4114304715762805410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_133
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aac1ac189f18970800000000000000
+      internalID: 8755553486421928475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_134
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdea8a6073abdc5d0800000000000000
+      internalID: -3040569427907531041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_135
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312641122c7109a0800000000000000
+      internalID: -6268592720562478797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_136
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ef66eaeac3e040800000000000000
+      internalID: 4675803948377958569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_137
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3631d24af3b2cd0800000000000000
+      internalID: -2581899987003415629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_138
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4dde77e8d2d640800000000000000
+      internalID: 5103379816541670697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_139
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba99230cd940bf890800000000000000
+      internalID: -7423334485209212501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_140
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4940217d36e5970800000000000000
+      internalID: 8745537301771490470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_141
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca582457cd7f17060800000000000000
+      internalID: 6949608226241545644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_142
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5c5759c2a22a00800000000000000
+      internalID: 730325075225239066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_143
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f92af4449e6470800000000000000
+      internalID: 8389806179813553437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_144
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6dc153da886f9d0800000000000000
+      internalID: -2740853045706565922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_145
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7588e77da036c0800000000000000
+      internalID: -4165638924803933651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_146
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477a6517280ff5c0800000000000000
+      internalID: -4179612965220485307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_147
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e98291063234f0800000000000000
+      internalID: -850557999238224778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_148
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c62baf49b554400800000000000000
+      internalID: 307752844964031491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e3770689a429c0800000000000000
+      internalID: -3952848179808705539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9e3cf0f88d44a0800000000000000
+      internalID: -6607474509677159199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_151
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ddb4e8cdf8e62f0800000000000000
+      internalID: -977685891649905407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b4ace3d1bcd470800000000000000
+      internalID: 8420800927042417194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_153
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbffa19f6c7408f0800000000000000
+      internalID: -575198033769137222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d202f339a7ed2970800000000000000
+      internalID: 8731889966448247513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_155
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d0a6733db1f130800000000000000
+      internalID: 3598865605976969552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_156
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a67a3aadf1e710800000000000000
+      internalID: 1720935440199361967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_157
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadf8ae503087cf0800000000000000
+      internalID: -254450055001417003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_158
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adceb3499fd798de0800000000000000
+      internalID: -1330393704023986982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_159
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b61e45ef1f7310800000000000000
+      internalID: 1404876678480968027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_160
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 130
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dd4528f3b160ee0800000000000000
+      internalID: -1295317883238949512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_161
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46909b92ee61ca00800000000000000
+      internalID: 775022530436044367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_162
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4081a0ac7d0ec0800000000000000
+      internalID: -3599083497853007276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_163
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e4a12aa5abbdfa0800000000000000
+      internalID: -5774817198743073276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_164
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873cacaa8df9e030800000000000000
+      internalID: 3524626955438405513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_165
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b740778ec34320800000000000000
+      internalID: 2541101695866746458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_166
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678e08b293f02f70800000000000000
+      internalID: 9160589453550323556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5254924bcc25f20800000000000000
+      internalID: 3410012942031463873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_168
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad663d1dad08eaf0800000000000000
+      internalID: -367028332460085849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_169
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb8c194d825d990800000000000000
+      internalID: -7361933122423177558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_170
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e12010ca298030800000000000000
+      internalID: 3497373590022645346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_171
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcccb884e64e6d770800000000000000
+      internalID: 8635340497844161743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_172
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513739220062f5fa0800000000000000
+      internalID: -5809883212262706411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_173
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 66
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787cf2749b843b830800000000000000
+      internalID: 4085689247555635079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_174
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a237947e065690800000000000000
+      internalID: -7613882226107571042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f97bb2f6a3d06550800000000000000
+      internalID: 6152149804978502133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_176
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d922c6e8c7ac80800000000000000
+      internalID: -8311453693863405548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_177
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bd649fc0e277c0800000000000000
+      internalID: -4074947530663806498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_178
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b63001e8aa0ef0800000000000000
+      internalID: -141114753984056830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ccaf145bfad630800000000000000
+      internalID: 3952747961698273351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ENEEEEEEEEEEEMY 2_180
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddaeca71bec8c10800000000000000
+      internalID: 2057277616719322399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

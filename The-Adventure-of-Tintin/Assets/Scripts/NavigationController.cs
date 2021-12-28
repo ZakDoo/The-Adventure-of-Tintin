@@ -4,24 +4,31 @@ using UnityEngine;
 
 public class NavigationController : MonoBehaviour
 {
-    public void GoToIntroScene()
+    
+    public void GoToMainMenu()
     {
         Application.LoadLevel(0);
     }
-
-    public void GoToGameScene()
+    
+    public void GoToIntroLevel()
     {
         Application.LoadLevel(1);
     }
 
+
     public void GoToGameOverScene()
     {
-        Application.LoadLevel(2);
+        Application.LoadLevel(9);
     }
 
     public void GoRoVictoryScene()
     {
-        Application.LoadLevel(3);
+        Application.LoadLevel(10);
+    }
+
+    public void GoToCredits()
+    {
+        Application.LoadLevel(11);
     }
 
     public void Quit()

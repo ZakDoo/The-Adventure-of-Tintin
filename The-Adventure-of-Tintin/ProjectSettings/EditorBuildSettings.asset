@@ -6,6 +6,39 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/MenuScene.unity
+    guid: ec7d299710ab8d549b7b40162a5b4eac
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: fe12ed054a15ce647ae012991b711474
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Scene 1.unity
+    guid: 4515c5e5b96f6cb4cb1c0f9dae370a77
+  - enabled: 1
+    path: Assets/Scenes/L1S2.unity
+    guid: 7a143413962aa154891dbf43e7c6b863
+  - enabled: 1
+    path: Assets/Scenes/L2S1.unity
+    guid: 0bd1290fd4ca0334e91707f6eca41902
+  - enabled: 1
+    path: Assets/Scenes/victoryL2S1.unity
+    guid: b908415c99a45384c84cbdb861f62deb
+  - enabled: 1
+    path: Assets/Scenes/L2S2.unity
+    guid: 2a552a3870a97ec4aabb53f1cb87c05f
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Scene 1.unity
+    guid: 6ae4514074a4e1d40b53247fc036fd82
+  - enabled: 1
+    path: Assets/Scenes/level 3 scene 2.unity
+    guid: 36fd356badaa2a041822183602fe023b
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: ee9998e055f92f54583781ec60a62be5
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: f17fe3d7f25bbf7499aad7fa5f52c63d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 9dc560257730da84b8a06d193a61c6ec
   m_configObjects: {}

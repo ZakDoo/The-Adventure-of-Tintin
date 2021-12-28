@@ -26,11 +26,11 @@ public class CameraZoom : MonoBehaviour
     {
         if(Input.GetKey(Zbutton))
         {
-            Cam.orthographicSize = Mathf.Lerp(Cam.orthographicSize, 4, Time.deltaTime * ZoomSpeed);
+            Cam.orthographicSize = Mathf.Lerp(Cam.orthographicSize, 1, Time.deltaTime * ZoomSpeed);
         }
         else
         {
-            Cam.orthographicSize = Mathf.Lerp(Cam.orthographicSize, 6, Time.deltaTime * ZoomSpeed);
+            Cam.orthographicSize = Mathf.Lerp(Cam.orthographicSize, 3, Time.deltaTime * ZoomSpeed);
         }
     }
 

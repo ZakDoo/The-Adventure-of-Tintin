@@ -36,11 +36,22 @@ public class PauseResume : MonoBehaviour
         Time.timeScale = 0;
     }
 
-    void Resume()
+    public void Resume()
     {
         PauseScreen.SetActive(false);
         paused = false;
         Time.timeScale = 1;
+    }
+
+    public void GoToMainMenu()
+    {
+        Application.LoadLevel(0);
+    }
+
+    public void Retry()
+    {
+        Application.LoadLevel(4);
+        Resume();
     }
 
 }

@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spikes : MonoBehaviour
+public class Spikes : EnemyController
 {
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,11 +18,24 @@ public class Spikes : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if(other.tag=="Player")
+        
+        if (collider.tag == "Player")
         {
-            FindObjectOfType<LevelManager>().RespawnPlayer();
+            FindObjectOfType<PlayerStats>().TakeDamage(damage);
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        if (this.isFacingRight == true)
+        {
+            this.GetComponent<Rigidbody2D>().velocity = new Vector2(maxSpeed, this.GetComponent<Rigidbody2D>().velocity.y);
+        }
+        else
+        {
+            this.GetComponent<Rigidbody2D>().velocity = new Vector2(-maxSpeed, this.GetComponent<Rigidbody2D>().velocity.y);
         }
     }
 
