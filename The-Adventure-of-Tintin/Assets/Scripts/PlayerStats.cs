@@ -127,4 +127,10 @@ public class PlayerStats : MonoBehaviour
         }
     }
 
+    public void liveRestore(int liveValue)
+    {
+        this.lives = this.lives + liveValue;
+        Debug.Log("Player Lives: " + this.lives.ToString());
+    }
+
 }

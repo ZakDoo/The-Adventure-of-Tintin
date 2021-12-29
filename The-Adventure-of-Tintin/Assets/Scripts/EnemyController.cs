@@ -9,6 +9,8 @@ public class EnemyController : MonoBehaviour
     public float maxSpeed;
     public int damage;
 
+    private Animator anim;
+
     public AudioClip hit1;
     public AudioClip hit2;
 
@@ -21,7 +23,7 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
     }
 
     public void flip()
@@ -39,5 +41,4 @@ public class EnemyController : MonoBehaviour
             AudioManager.instance.RandomizeSfx(hit1, hit2);
         }
     }
-
 }

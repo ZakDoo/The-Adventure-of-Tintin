@@ -123,4 +123,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healValue: 30
-  drink: {fileID: 0}
+  drink: {fileID: 8300000, guid: 612b42380cde5ef4aa8b7556104e6538, type: 3}

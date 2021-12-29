@@ -30,6 +30,7 @@ public class PlayerController : MonoBehaviour
     private Animator anim; //controls the character's animation
     public bool animation_bool;
 
+    public AudioClip gunFire;
     public AudioClip jump1;
     public AudioClip jump2;
 
@@ -117,5 +118,6 @@ public class PlayerController : MonoBehaviour
     public void Shoot()
     {
         Instantiate(bullet, firepoint.position, firepoint.rotation);
+        AudioManager.instance.PlaySingle(gunFire);
     }
 }

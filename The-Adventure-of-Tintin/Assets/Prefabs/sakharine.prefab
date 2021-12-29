@@ -15,9 +15,9 @@ GameObject:
   - component: {fileID: 293675874433927525}
   - component: {fileID: 7625426169532324122}
   - component: {fileID: 3547044483003904713}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: sakharine
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Enemy
   - Wall
+  - Bullet
+  - Bird
   layers:
   - Default
   - TransparentFX
@@ -19,7 +21,7 @@ TagManager:
   - Player
   - Enemy
   - Wall
-  - 
+  - Bullet
   - 
   - 
   - 

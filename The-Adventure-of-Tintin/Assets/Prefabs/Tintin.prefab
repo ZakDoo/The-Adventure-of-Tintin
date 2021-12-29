@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1829507939826211040}
   - component: {fileID: 1829507939826211047}
   - component: {fileID: 1829507939826210973}
+  - component: {fileID: 3728285256553088000}
   m_Layer: 8
   m_Name: Tintin
   m_TagString: Player
@@ -35,6 +36,8 @@ Transform:
   m_Children:
   - {fileID: 1829507940930107532}
   - {fileID: 1120857736476400825}
+  - {fileID: 6811228684566913291}
+  - {fileID: 7712113577822884268}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -177,14 +180,15 @@ MonoBehaviour:
   Crouch: 99
   groundCheck: {fileID: 1829507940930107532}
   groundCheckRadius: 0.2
-  Return: 0
-  firepoint: {fileID: 0}
-  bullet: {fileID: 0}
+  Return: 113
+  firepoint: {fileID: 6811228684566913291}
+  bullet: {fileID: 825852551445506411, guid: 89f83f387036ffb469a7e498a6a8bf6d, type: 3}
   coinsCollected: 0
   whatIsGround:
     serializedVersion: 2
     m_Bits: 128
   animation_bool: 0
+  gunFire: {fileID: 8300000, guid: cc1f12ac03f07af46aabba249a52b0a9, type: 3}
   jump1: {fileID: 8300000, guid: f27042274abad7543a4164b64a7555fa, type: 3}
   jump2: {fileID: 0}
 --- !u!114 &1829507939826210973
@@ -239,6 +243,25 @@ MonoBehaviour:
     m_NumAlphaKeys: 2
   fill: {fileID: 0}
   livesUI: {fileID: 0}
+--- !u!114 &3728285256553088000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829507939826211046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8808aa2aeba58e5498e067d46fe62488, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  melee: 101
+  anim: {fileID: 1829507939826211042}
+  attackPoint: {fileID: 7712113577822884268}
+  attackRange: 0.2
+  enemy:
+    serializedVersion: 2
+    m_Bits: 512
 --- !u!1 &1829507940930107539
 GameObject:
   m_ObjectHideFlags: 0
@@ -268,6 +291,66 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1829507939826210972}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3544604023842517292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6811228684566913291}
+  m_Layer: 0
+  m_Name: Firepoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6811228684566913291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3544604023842517292}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.152, y: 0.038, z: -110.55959}
+  m_LocalScale: {x: 1.2010213, y: 1.3008229, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1829507939826210972}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7171070068388837052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7712113577822884268}
+  m_Layer: 8
+  m_Name: AttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7712113577822884268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7171070068388837052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.225, y: 0.064, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1829507939826210972}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1217537819540856277
 PrefabInstance:
